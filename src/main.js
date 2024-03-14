@@ -14,16 +14,10 @@ function getQueryParam(param) {
 
 // Use the ternary operator to test the "flavor" query parameter
 const flavor = getQueryParam("flavor");
-const result =
-  flavor === "A"
-    ? "Flavor is A"
-    : flavor === "B"
-    ? "Flavor is B"
-    : "Flavor is neither A nor B";
 
 const config = {
   sources:
-    flavor === "A"
+    flavor == "A"
       ? ["calvino", "hooks", "butler", "oliver", "rumi"]
       : ["consequences", "deleuze", "naam"],
 };
