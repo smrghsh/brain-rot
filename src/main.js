@@ -1,7 +1,100 @@
+import "./reset.css";
 import "./style.css";
 import GUI from "lil-gui";
 // import p5
 import p5 from "p5";
+
+const scrollEvent = () => {
+  const contentContainer = document.querySelector("#contentContainer");
+
+  if (contentContainer.scrollTop > 600) {
+    // select the first child of content container
+    // if it exists, remove it
+
+    //   const app = document.querySelector("#app");
+    //   const A = document.querySelector("#A");
+    //   const B = document.querySelector("#B");
+
+    let snappedElement = null;
+    let minDistance = Infinity; // Start with a very high distance that will be updated.
+    const contentElements = document.querySelectorAll(".content");
+    // Get all the '.content' elements
+
+    // Iterate through all '.content' elements
+    contentElements.forEach((element) => {
+      // Calculate the distance of the element's top edge from the container's current scroll position
+      const distance = Math.abs(
+        element.getBoundingClientRect().top -
+          contentContainer.getBoundingClientRect().top
+      );
+
+      // Check if this element is closer than the previous closest
+      if (distance < minDistance) {
+        minDistance = distance; // Update the closest distance
+        snappedElement = element; // Update the element that is currently snapped
+      }
+    });
+
+    if (snappedElement) {
+      const otherElements = Array.from(contentElements).filter(
+        (element) => element.id !== snappedElement.id
+      );
+      console.log("Currently snapped element:", snappedElement.id);
+
+      console.log("Other element(s):");
+      otherElements.forEach((element) => {
+        console.log(element.id);
+        // select by element.id
+        let other = document.querySelector(`#${element.id}`);
+        // make other display none
+        //   other.style.display = "none";
+        //after a delay of 200ms do contentContainer.appendChild(other);
+        setTimeout(() => {
+          contentContainer.appendChild(other);
+        }, 200);
+        // You can perform additional actions with each of the other elements here
+      });
+    }
+
+    // You can perform additional actions with the snappedElement here
+  }
+
+  //log the element that content Container is o
+
+  //   console.log(contentContainer.scrollTop);
+  //   contentContainer.appendChild(A);
+  // if (main.scrollTop > 50) {
+  //   section1.style.backgroundColor = "red";
+
+  // } else {
+  //   section1.style.backgroundColor = "pink";
+  // }
+
+  // if (main.scrollTop > window.innerHeight / 2) {
+  //   section2.style.backgroundColor = "blue";
+  // } else {
+  //   section2.style.backgroundColor = "purple";
+  // }
+};
+const contentContainer = document.querySelector("#contentContainer");
+contentContainer.addEventListener("scroll", scrollEvent);
+
+const s = (p) => {
+  let x = 100;
+  let y = 100;
+
+  p.setup = function () {
+    // p.createCanvas(700, 410);
+  };
+
+  p.draw = function () {
+    p.background(0);
+    p.fill(255);
+    p.rect(x, y, 50, 50);
+  };
+};
+
+new p5(s); // invoke p5
 
 // var p5_ = new p5();
 // let obj = {
