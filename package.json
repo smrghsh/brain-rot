@@ -1,0 +1,19 @@
+{
+  "name": "brain-rot",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "lil-gui": "^0.19.2",
+    "vite": "^5.1.4"
+  },
+  "dependencies": {
+    "p5": "^1.9.1",
+    "vite-plugin-glsl": "^1.2.1"
+  }
+}
