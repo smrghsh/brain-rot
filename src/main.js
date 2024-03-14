@@ -6,9 +6,26 @@ import * as RiTa from "rita";
 import p5 from "p5";
 
 // console.log(RiTa);
+function getQueryParam(param) {
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  return urlParams.get(param);
+}
+
+// Use the ternary operator to test the "flavor" query parameter
+const flavor = getQueryParam("flavor");
+const result =
+  flavor === "A"
+    ? "Flavor is A"
+    : flavor === "B"
+    ? "Flavor is B"
+    : "Flavor is neither A nor B";
 
 const config = {
-  sources: ["calvino", "hooks"],
+  sources:
+    flavor === "A"
+      ? ["calvino", "hooks", "butler"]
+      : ["consequences", "land", "deleuze", "naam"],
 };
 
 const s = (p) => {
