@@ -1,0 +1,1430 @@
+
+
+
+
+
+Unknown
+
+
+
+
+
+
+Chasm
+Eighty-Nine
+Manifesto for an Abstract Literature
+ 
+ 
+Nick Land
+ 
+Time Spiral Press, 2015
+ 
+www.timespiralpress.net
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+Unknown
+
+
+
+
+
+
+
+
+§00 — Nothing was to have taken place. Less, even, than usual, or than standard procedure recommended. That was clear. 
+              The way Qasm put it was ‘clean’. 
+              “It has to be perfectly clean. You get that?” She didn’t really need to ask, and knew it. 
+              “Of course.”
+She waited, offering me an opportunity to contaminate the moment of pure understanding. 
+I took a sip of water. Studied her professionally. Said nothing. 
+              “Any questions?” she asked, knowing I hadn’t. 
+              I hadn’t.
+              “No,” I said. 
+              “Nothing more, then.”
+“No, nothing. It’s all clear.” No threads of personal identification. No electronic records. No guns. 
+As she watched, I skimmed through the contract one more time, just to show that I cared. The money transfer was complete. The mission profile was simple. There was a one-time-use hard-delete application to scramble all associated data into noise before setting out. 
+              “You won’t need to contact us when it’s done.”
+              “Understood.” 
+“Good luck then,” she concluded meaninglessly. 
+The empty shell of a smile, then I left. She didn’t look up. 
+ 
+§01 — As Qasm had snuggled ever deeper into the bed of government security contracting, it had begun to give its activities military-style names. This one was ‘Pits-Drop’. The mangled pun was far more informative than any sound protocol would have permitted it to be. It was an information-preserving compression, rather than code in any cryptographic sense. Still, no one was listening, so I guessed it didn’t matter.  
+The final syllable of the name abbreviated ‘operation’ – or seemed to. There had been Floor-Mop, then Full-Stop, and now this. 
+Floor-Mop had been tidy, and only marginally illegal. Full-Stop was a bloody fiasco. It astounded (and seriously impressed) me that no one had been arrested after it. The descent path so far had been precipitous, and it led with some ominousness to ‘Pits-Drop’. Fortunately, there weren’t enough data-points to plot a convincing trend. 
+ 
+§02 — I hiked the last few miles to the dock, along the cliff-road in pre-dawn darkness. It was still not yet five when I arrived. 
+Our vessel, The Pythoness, was moored to a private pier at the edge of the dock. Even at a distance, she looked small, neat, and expensive. Two bored, cold security guards kept watch at the check-point. Another two stood by the boat. All four were heavily armed. 
+There was a fifth figure, standing perfectly immobile apart from the rest, staring out to sea. From his bearing alone – which, despite being pulled into itself against the cold, radiated indomitable purpose – I knew with complete confidence that this had to be our man. 
+              I watched him for a while, before approaching. 
+              “James Frazer?” 
+              “Yup,” he replied, scanning me efficiently with icy gray eyes. “You have to be the company guy.”
+“Tom Symns.” I extended my hand, and he shook it readily emough. “Good to meet you at last, captain.”
+“So what is this all about?” he asked immediately. 
+              “The mission?”
+He said nothing, silenced, perhaps, by an intolerance for recursive or superfluous questions. His eyes narrowed and perceptibly hardened, searching my face for signs of evasion.
+“You know what I do,” I told him. “The company runs everything on a ‘need-to-know’ basis. Like you, I’m an outside contractor. There’s a piece of cargo to dispose of. That’s the mission.”
+“‘Cargo.’” The repetition was derisive, but undemanding. He didn’t like the obscurity, but I could tell that he’d already given up on me as a source of information. The speed and clarity of that call was impressive. 
+              “Pre-sealed. Confidential. That’s all I’ve got.”
+              “Yeah, I figured,” he sighed. “You want to see the boat?”
+              “Sure.”
+ 
+§03 — The Pythoness had been provided by the company. No one else had been allowed to touch her. Due to her unusual functional specifications, the construction process had required close oversight. 
+The boat wasn’t large, but the usage of space approached optimality. There were no rough edges. Some millions of pieces were fused into the single entity that was The Pythoness, with a seamless perfection owing less to mechanical combination than organic integrity. Her shape emerged from a confluence of ungraspably intricate but unbroken curves. It looked as if she had been printed as a coherent unit, like a droplet of pure design extracted directly from the immaculate realm of ideas, still glistening from a sudden condensation into actuality. Perhaps she had been. 
+I whistled in admiration. 
+“Quite something, isn’t she?” Frazer concurred. Still, there was an unmistakable ambiguity in his tone. 
+“Worried that she won’t leave you anything to do?” I guessed. 
+His silence was confirmation enough. 
+“On the positive side, it will mean there’s time to think,” I added.
+“That’s ‘positive’ how?” 
+The predictive insight packed into that surly response would later come to astound me. 
+The Pythoness was a boat-shaped intelligent machine. Insofar as we could trust what we’d been told, this vessel bobbing gently in the water beside the quay was an elaborate trash-disposal system. She existed solely for this mission, assembled especially for it, less than a month before. No one had ever sailed in her. She was unlived in. Her usage was untested. She was pure – except for the single dark secret she had been built around. 
+A crew of five would fit a little too neatly for comfort. Exploring the Pythoness was an undertaking so limited in scope that it dramatized our impending confinement. It took no more than twenty minutes to complete the inspection with reasonable thoroughness. A casual tour would have required less than ten. These few moments would define the boundaries of our world. 
+Excluding the two compact toilet and shower units, there were only four enclosed spaces in total. Two below deck, and two above. Beside the workshop / storage compartment where the cargo was confined, at the rear, the lower area consisted of a single cabin lined with bunks and attached lockers. A minature galley occupied the aft section, while a horseshoe curve of comfortable seating wrapped itself neatly around a large table at the bow-end. It didn’t add-up to much diverting complexity.  
+Above deck, the bridge was divided vertically. The lower section was larger and served as an electronic control hub. Five different computer screens gave it the appearance of a media room, as if taunting us with our structural passivity. Input devices were devoted – almost entirely – to navigating through dimensions of information. The smaller, upper section, was nominally the center of command. More realistically, it was a look-out post. Nothing would happen there.  
+ 
+§04 — James Frazer was to be my key companion for almost a month, so it was important to get a sense of him. Too much command entitlement in a small space spelt trouble, and the formalization of authority in this case had been left concerningly ragged. Yet the initial impression was encouraging. He appeared to be taciturn, wry, capable – they were all traits that would help us to get along, or at least off each other’s throats. He’d been a saturation diver for five years, which already said a lot. Silence, darkness, pressure – he had been immersed in all of them, to depths normally judged unfathomable. 
+              There were to be three other members of the crew. All were in their mid- to late-twenties – younger than both of us by roughly a decade – but otherwise they seemed to have little in common. 
+              “You’ve worked with these three guys before?” I asked. The documentation had been vague about it. 
+“Some.” 
+“Nothing to worry about?”  
+“They all do what they’re told. No complex stuff.” He clearly saw both points as obvious virtues. 
+Robert Bolton and Joseph Scruggs composed a study in contrasts. They epitomized the two sides of the tracks. 
+Bolton’s educational credentials were extraordinary. They were what I would have expected of somebody building an experimental nuclear fusion reactor. 
+“With these qualifications he’s working on boats?” 
+“He’s ‘between things’. Says the sea helps him think.”
+A spy would have hidden this expertise, so it didn’t look like a security risk. Besides, in the event of any kind of technical problem, he’d be an asset. It still didn’t add up, but there was no time for that now. HR wasn’t my responsibility. 
+Scruggs was the anti-Bolton. In another age, he would have been called a ‘wharf rat’. His family background wasn’t so much broken as shattered. It had been a circus of abuse. Even from the highly-abbreviated version made available for convenient inspection, his criminal record was an impenetrably tangle of astounding density. Yet, at some point deep into the descending glide-path that was his life, he’d discovered religion and – by all socio-economic indications – been saved. He’d managed to make the transition from petty dockside larceny to working on boats. The salvation story was dramatic enough, but it only very marginally nudged my default hypothesis that Scruggs was bad to the bone. He was going to be trouble. 
+The last of the three was a more perplexing choice, at least initially. Had central casting set out to provide us with a Queequeg it would have had cause for self-congratulation.
+“This guy ‘Zodh’ – that’s all the name we’ve got?” 
+“It’s all I’ve ever had.”
+“It says he’s from Guam.”
+“That’s where he found us.”
+The attached photograph was not selling him hard. It would have been a conspicuously singular face, even without the hideous grooves of ritualistic scarring, and the dense spatter of tattoos that swirled across it. The individual it portrayed was socially and ethnically dubious – partially Polynesian I suspected, but speculation quickly subsided into randomness. The stare he had cast into the camera lens delicately balanced an unsettling combination of amusement and coldness.
+“He speaks English?” I asked, hoping the question was unnecessary.
+“Yeah … of a sort.”
+“Christ.” 
+“It hasn’t been a problem, up to now.”
+“You know, the whole ‘mystery man’ aura here isn’t working for me. It looks far too much like gratuitous risk. Why do we need him?” 
+Frazer cocked his head back slightly. By all appearance, it was a gesture designed to signal a radical lack of interest – even mild contempt. “Adaptability? Mental flexibility? I don’t know. It’s your call.”
+I looked at the photo again, and sighed. “Okay, what the hell.” There wasn’t enough information here to support a sound decision. The company had seen all these files, and green-lighted the crew. Why complicate things? I deleted all the documents. It was what it was. 
+The Qasm SUV had a kill-cradle for the tablet. After a perfunctory check, I placed mine inside, and pressed the ‘wipe’ button. 
+“Really?” commented Frazer, who’d been watching the process. 
+“It’s in the contract. ‘No communication or information-storage devices to be taken on board’,” I recited  from memory. 
+“But nothing about extinguishing all related data.” 
+“Habit.”
+He shrugged. That was all he was going to get, and he knew it. He switched tack.
+“Do they have some superstitious objection to the thirteenth?” Terra firma was burning the soles of his feet. He wanted us to be already underway, but that wasn’t the way Qasm understood time. 
+“No. And they don’t care about St. Valentine’s Day, either.” 
+“Everybody’s here.” 
+That was true. The other crew members were lodged in a small hotel on the bluff.
+“There’s a schedule,” I said. It shouldn’t have been necessary.
+We had another twelve hours to kill. Nothing was going to erode and then eliminate any of them except tolerated duration. 
+A subtle tremor of resignation passed through him. Loss of control was something he already knew about, but that didn’t mean he had to like it.  
+ 
+ 
+§05 — Nestled into the cliff, close to the dock, was a small, atmospheric bar, called The Crab Pot. The name made it sound like a restaurant, but the little food that was served there looked inedible. It had settled itself confidently upon the sharp cusp between authenticity and simulation. This was the kind of place a million bars around the world wanted to be, but since it grasped the fact, whatever innocence it might once have had was now gone. It had adjusted itself neatly to its own stereotype, with netting and crab traps complicating a softly-illuminated, cave-like interior, unsullied by audiovisual technology. There wasn’t even a jukebox. Dock hands and tourists patronized it in roughly comparable numbers. 
+Even at midday it was half-full. Most of the patrons were clustered around the bar, laconically swapping jokes and sea stories. The dark rum – which everyone already seemed to be drinking – looked good. We ordered two coffees, which weren’t terrible.  
+The periphery was mostly empty. It was easy to find a quiet corner. 
+“So, the company …?” Frazer began. The formless stub of a question was already tilting forward, towards the cargo. That was understandable. Realizing that frontal engagement was futile, he had set out now upon a more patient and indirect route, although it was nowhere close to being indirect enough. 
+I sipped at my coffee, waited.
+“Thing is,” he continued, in a slow, cautious drawl, “I’ve no idea what ‘QASM’ stands for, what it is, or what it does. It’s strangely difficult to find out. I’m assuming it’s a business, with customers, but if so, it’s not exactly broadcasting the fact. Say I wanted to buy something from them …”
+“You don’t.”
+“On the web, the company says it’s selling ‘deep technology solutions’,” he persisted. “Okay, that sounds like a business – like marketing spin – but it isn’t really telling me anything at all.”
+“This is coming up now?” It wasn’t at all where I wanted our conversation to be. I’d somehow imagined he would know that.
+“First chance I’ve had to raise the question.”
+“In person?”
+“It’s not exactly email material.”
+I let that pass. The communication channel wasn’t going to matter a damn to this stuff. There was what could be said, and what couldn’t. A meatspace encounter made no difference to any of it.  
+“Let’s take a step back.” Regression wasn’t really the direction to be followed, because progression wasn’t an option on this map. We weren’t going anywhere with this. Rather, it seemed necessary to move the conversation sideways, into a more realistic context. “What I do for Qasm – what they pay me for – has a lot to do with not asking questions. It’s a professional ethos. Or exactly the opposite, whichever you prefer. They contract me to make problems disappear. So you can see how this mission slots into that, I’m sure. Crucially, doing nothing – ever – that could contribute to their information risks is where it begins.”
+“You’d rather not know?” he summarized, at an angle. He seemed genuinely curious, rather than judgmental.
+“It’s my job not to know.”
+“And you’re okay with that?”
+“It’s what I do.”
+“So interrogating you further would be completely pointless?”
+“That is the only point.”
+“Yeah, I’m beginning to get it.” He even smiled, but only a little, and only for an instant. “They’re putting you on the boat to keep me in the dark.”
+“You know, that’s probably true – but they’d never tell me, and I’d never ask.”
+He shrugged, not quite amused, but not conspicuously annoyed by my flippancy, either. I had no idea how much money he was going to make for the next three weeks of work, but it had to be abnormal. He was being paid for acceptance, in the absence of understanding. We all were. 
+ 
+ 
+§06 — The cargo had been pre-installed within a technologically-sophisticated closed unit, whose design had followed a smooth, asymptotic curve to the edge of the absolute. It was like the Pythoness herself, but to a higher power. Upon arrival at the destination – as confirmed by the inbuilt satellite navigation system – my responsibility was to enter the activation code and initiate the release sequence. Three weeks on a boat, for nine key-strokes. After a ninety-second delay, the thing we were transporting would then be dropped into the earth’s deepest submarine abyss. Execution of this simple task would be the culmination of the mission, completely exhausting whatever meaning it might have. In any case, by the end, we’d probably still have learnt next to nothing about it. 
+The cargo disposal unit occupied a compartment, situated below deck, and accessed from the main cabin, that doubled-up as a compact storage bay and workshop, encroached upon by the fuel tanks and engine cowlings. The entire crew could fit inside, but it was a crush. There was no way more than two people would have been able to do anything productive there at a time.  
+The unit was located on the port side of the compartment, balanced by two of the three fuel tanks. Its containment sheath was a seamless polycarbon shell, perfectly rigid, yet peculiarly neutral in tactile quality. It had no color at all. The matt black substance was so unreflective it appeared almost as a hole in space. The sensible absence tempted me to touch it again, and it still felt like a hardened – vaguely repulsive – void. Nobody else wanted to make any kind of contact with it whatsoever. We stood, crammed together, in silence for a moment, as if absorbing its imperceptible, tense hush. It wasn’t quite coffin-shaped, but to an over-active imagination it might have suggested the casket for an alien child. 
+“So that’s it,” Frazer said eventually.
+“Not much to look at,” Scruggs added, perhaps as a dry joke.
+I carefully examined the faces of my four companions, one by one, trying to extract what I could about their initial responses to our task. No one was transparently thrilled, but beyond that it was difficult to say. Frazer looked quietly determined, folded into himself, in a way I already suspected was typical. He was adapting to a situation that was not, in the slightest degree, responsive to any of our wishes. Scruggs might have been silently praying, his lips moving, scarcely perceptibly. Other than that, he seemed calm enough, or at least accepting. Zodh was smiling cryptically, unreadable. 
+It fell upon Bolton to represent everyone’s doubts. 
+ “What do you think is in there?” he asked. He wasn’t making any effort to hide his disquiet.
+“Do you care?” answered Frazer. In less than a day, he’d already passed surreptitiouly into a miniature occult circle. It was now his unreflective instinct to preserve the integrity of the unknown against encroachment. I would have smiled, if I had thought – even for a moment – that he might not notice.
+“Sure I care,” Bolton responded irritably. “It could be anything. I mean, if it isn’t hazardous, why is it locked away from us like this? No one said …”
+“This is the job,” Frazer interrupted. “If you have problems with it, you’ve still got …” he looked at his watch “… an hour and seventeen minutes in which to quit. Bale out now, and you might avoid being sued for breach of contract.”
+Bolton scowled, but said nothing. Like the rest of the crew, he was being paid enough to cover a lot of unhappiness. 
+Frazer passed me a strange sideways glance. Silencing Bolton didn’t mean he had no questions of his own, and they’d be back. His support had been strictly tactical. 
+The silent communication didn’t compromise my gratitude. One step at a time was alright with me. It had to be.
+ 
+ 
+§07 — We set out into calm, miserable weather. The wind was no more than a breeze, but its icy teeth were wounding. Chill mist, tending to drizzle that never quite fell, deepened the elusiveness of a dull gray sky. According to all primitive intuition, we were heading on a meaningless course into formless infinity. Our prospects were awesome in their uninterrupted obscurity.
+For an hour or so we stood, each apart, scattered along the guardrail. No one spoke.  
+The coast behind us gradually receded into invisibility. 
+The steady thrum of the engine smoothed further, as it withdrew into the subliminal constancy of an auditory ground-state. Like insects, we were now hearing it through our feet. 
+Eventually Bolton broke the silence.
+“So it begins,” he said. His tone of voice, in its dull vacancy, was a sonic translation of the sky-shades. ‘Leaden’ perhaps, with heavy vagueness muffling an encroaching blackness. It alluded to storms, rather than announcing one. Still, there would be a storm.
+“Thy Will be done,” Scruggs added, speaking into the nebulous oblivion. “On Earth as it is in Heaven.” It was hard to know which seemed more distant. ‘Limbo’ had never meant anything to me before. Now it was palpable. 
+“Zommoddybpskhattao,” Zodh contributed, solemnly. Each alien syllable was slowly and precisely intoned. His gaze was rigidly locked onto the horizon, where he was seeing something nobody else did. “Zommo,” he repeated, with still deeper, languid sonorousness. “You open the Old Way. You close Great Gates of Sleep.” 
+“What the fuck?” Bolton mumbled, softly, aghast at what his simple remark had avalanched into, as it passed like a stray wave down the relay chain. 
+Scruggs edged towards him – and away from Zodh – back along the guardrail. They exchanged glances, wordlessly communicating some message I was unable to interpret and didn’t want to guess at. 
+Frazer had already left, I now noticed. I’d missed him slip away. How much of this had he caught? 
+His absence spoke – if elliptically.
+“No complex stuff,” he had said. I came close to laughing at that now. 
+Was he on drugs? howled some nagging, hallucinated jester. It doesn’t matter, because he will be soon enough. Backstage a clown chorus snickered in appreciation. Since Full-Stop had crashed, the mind smurfs had become noisier, but they would be easy enough to ignore. The cold was already killing them, I suspected. The ocean would finish it. 
+Bolton and Scruggs left the deck together, exchanging a few awkward words. 
+Zodh pushed further into his raptures. 
+I watched for a while, but eventually my attention was vacuumed back out to the empty horizon. It fused into hazed memories of other journeys, associated intimately through nothing but their common indefiniteness. None of them had been anything in themselves, or at least anything that could be recalled, other than cloudy allusions to alternative voyages, each fading into its own immemorability. They had been dreams, probably, or stories encountered long ago. Muffled echoes – vividly indistinct – returned from some freezing fogbank of forgetting. 
+Out there, somewhere, was recall. It would all come back, in its own time, or not. It made no difference. Ahead of us lay a pre-set course towards some absolute annihilation of purpose. We were getting rid of something. When it was done, we still wouldn’t know what it had been. 
+Something over 5,000 nautical miles away, West South-West, our destination simmered in the distant tropics. The lazy curve of our route had been plotted to miss out everything in between. The cargo was to be released into the Challenger Deep, where the Mariana Trench lurched down into its nethermost extremity. It came to its end in the Western Pacific, 210 miles South-West of Guam. 
+ 
+ 
+§08 —  No one said much. On the one topic worthy of discussion there was nothing to be said. Already, it seemed, the crew had come to think of me as an additional layer of shielding, strategically placed between them and the  object of their morbid fascination. They understood that I had not been set among them to clarify their near-term fate, but far more nearly the opposite. If they had questions about what lay in store for them, I would be the last one to hear them.
+The distance made observation easier. The boat was too small for them to withdraw themselves from my attention without continuous effort. They were bottled specimens, within convenient visual and auditory range. There was no need to expend energy pursuing them. Like a spider – or something far less common but still spider-like – it was sufficient to quietly wait for my prey to appear. Even if time was to be an enemy (of unknown potency), space was on my side. 
+Scruggs, who had already singled himself out by the intensity of his aversion to my presence, was also the easiest to catch. When he stumbled upon me, his pride kept him from the path of immediate retreat. He wanted to communicate his defiance and animosity, along with his refusal to acknowledge any right on my part to a piece of the boat’s limited space. This territorial obstinacy continually lured him into the dissection-zone. 
+Perhaps, initially, he imagined I would shift out of his way, randomly displaced by discomfort. Instead, I smiled emptily at him, before returning to what I pretended were consuming private thoughts. That was a torment to him, and he handled it badly. He fed me every day.
+It was difficult not to admire him, however distantly. He’d pulled himself out of a trajectory that had touched the edge of a black-hole. If not quite a breakage of fate, it looked much the same from outside. He was human gristle that the world had been forced to spit out. 
+Scruggs was inseparable from his King James Bible, a grim, leather-bound volume that had been pored over – or pawed through – to the edge of disintegration. On the rare occasions when it wasn’t in his hands, he kept it in a black canvas pouch that seemed to have been specially designed for the purpose. He spent a lot of time praying. His religiosity wasn’t quite exhibitionistic, but it was so entirely lacking in inhibitory self-consciousness that it might as well have been. It was to whatever he’d found in this book that he owed his difference from zero. There was no way he could hide his gratitude for that. There was something mustily glorious about it – a fragment of grim seventeenth century piety re-animated as a twenty-first century sport of nature. 
+“Steer us, each day, closer to the course of your Will, Lord,” he mumbled softly. “Help us to bind more tightly the evil in our hearts. In the name of the Father, and the Son, and the Spirit that glides across the great water, shelter these wretched sinners from the storm of your wrath …” 
+ He stared at me intently as he said this, and much else like it. I smiled back. 
+After a couple of days had passed, I took it up a notch. 
+“Scruggy,” I said as he passed, knowing the stupid nickname would annoy him. 
+“Scruggs,” he shot back, automatically.
+“You have a moment?”
+“No.” But he’d paused, instinctively. 
+“I was hoping to borrow your Bible – just for an hour or two – if you’re not looking at it right now.”
+His arrested stroll transitioned into full paralysis. 
+I had been tweaking the barbed hook for thirty minutes or so, before deploying it. For a few seconds, I indulged myself in smug recognition of its genius. Once it had sunk in, the inter-angled acuities made it impossible to wriggle from, without it digging in further from another direction. 
+“Why?” he managed eventually. 
+“Why read the Bible?” The distorted echo could only have been maddening.
+He glowered, arms folded across his chest defensively. Yet beneath the infuriation I could see something else – the thing I was counting on – obliging him, crushingly, to share the Word. 
+“The abyss,” I said, and then, as if in painstaking explanation to an idiot: “I want to see what it says about the abyss.”
+He pulled out the book. “This is a King James,” he said. “It never uses the word.”
+“It isn’t the word that matters.”
+“‘The deep’, ‘the bottomless pit’, ‘the abode of demons’ …” he guessed. “That’s what you’re after?”
+Was the ambivalence deliberate? If so, it was impressive. His face betrayed no guile.
+“What I’m after?” I repeated, as a test.
+“What you’re looking for.” The displacement clarified nothing. “Why do you care?”
+“About what’s in there?” I gestured towards the book, tugging again on the initial request – twisting the hook still deeper into the neuralgic zone of his conflicted possessiveness. “You don’t think it has anything to tell us about where we’re going?” 
+“You don’t care about what’s in here,” he snapped, succumbing to his hostility.
+“About what’s inside?” Tugging again, slowly. 
+“It’s not ‘inside’.”
+“You think I disagree?”
+He turned to leave, dazed with vague rage.
+“Come on Scuggs,” I asked, again. “The book. Just for an hour.”
+He froze once more, turned back, twisting on the line. He couldn’t lend it to me. He couldn’t not. 
+“It’s okay,” I said, letting it go. “Later.” 
+Weeks stretched ahead. He had nowhere to flee. 
+ 
+ 
+§09 — A blind spot is a hole in perception that conceals itself. It’s the thing you don’t see. The cargo – the thought of the cargo – was like that. It was perfectly hidden, in every normal respect. Yet in some other and excessive dimension it loomed. It was impossible to contemplate directly, and perhaps even indirectly, but it overshadowed everything. Oppressively close, yet absolutely elsewhere, it intimately engaged with us, on terms that were not ours. It enveloped our thoughts, and words, even our movements. We were caught in its absolutely ungraspable proximity, as if in a subtle web. 
+It had not occurred to me that it could be anything we might understand. That was a pre-emptive defense mechanism, I had already begun to recognize. Otherwise, the tantalization would have been intolerable, consuming all thought, without remainder. None of my crewmates were as well protected. It sucked upon them. 
+I had brought nothing to read, and could no longer understand why. How had I thought I was going to divert myself? It was already hard to remember. Even if there was more time to kill than I could have expected, that had already been plenty – 350 hours or so by any reasonable guess. It wasn’t going to conveniently compress itself. 
+Still, there were threads of recollection to tug at. Guarding the cargo was to have been the time sink. I had assumed it would be a serious matter – requiring continuous vigilance, even something akin to patrolling, or aggressive reconaissance, although of a subtle variety. Deliberate diversion hadn’t been a consideration. It would have been like taking a fat beach-holiday novel to a competitive chess match – but then, the match had in some still indefinite sense been cancelled. There was a gaping, unexpected hole, which the containment unit echoed unilluminously.
+Spare time wasn’t anything familiar, professionally speaking. I had become habituated to continuous acceleration, to an extent that I only now clearly acknowledged. Up to this point, there had always been a little more complexity in a little less time. Full-Stop, the last job, had been especially difficult. There had been too many moving parts, and too many players. It had begun smoothly enough, but it had ended with crawling about in the dark, knives, gunfire, and screaming. It had also involved a boat, though it had not set out to sea. By the end, it had been a floating morgue. Under such conditions, and beyond very strict limits, redundancy was slackness to be excised. I had been unprepared for our new micro-universe, where superfluity was enthroned, without challenge. 
+Bolton had tilted the other way. He had brought three substantial volumes with him on our voyage. The first was a densely-technical analysis of memristor architecture, the second a somewhat more discursive – but still imposingly-mathematical – introduction to holographic universe cosmology. His third book was of far greater obvious relevance to our undertaking. He lent it to me without reluctance, perhaps anticipating a modestly informed conversation in the days ahead.  
+The book was an introduction to hydrothermal vent eco-systems – what it called ‘dark ecologies’. It wasn’t especially impenetrable – easy reading for Bolton, I guessed – so I was able to partially digest its contents over the few hours of the loan. Life without light was the theme. Since the topic wasn’t anything I had turned my mind to before, it was enlightening from the start. Anaerobic bacteria were the constructors. In the absence of sunlight, the extremophile-based ecologies of the ocean depths fueled themselves by extracting usable energy from heat, methane, and sulfur compounds through chemosynthesis. This produced the foundations of a food-chain. Insofar as terrestrial biology was concerned, this was the Old Road. The sun was nothing to the denizens of the abyss except a geochemical legacy, and a distant invisible mass. It would have been dream fuel, if there had still been dreams. 
+“Active hydrothermal vents are thought to exist on some of the gas giant moons,” Bolton said. “On Jupiter’s Europa, probably, and Saturn’s Enceladus. There have even been scientific speculations that ancient hydrothermal vents once existed on Mars.” 
+“This place we’re going?” I asked Bolton. “It has this night life?”
+“Sure,” he replied. “A long way down. It’s not as if we’re going to see any of this stuff.”
+“No,” I agreed. “But it’s there.”
+ 
+ 
+§10 — The Pythoness was so highly automated it was basically a robot. There wasn’t much for any of us to do. Frazer was the only one of us to be badly affected by that, initially, and in any obvious way. He drifted around the vessel in a state of unsuppressed agitation, his senses straining for anything that could absorb his attention. Every half hour or so he re-visited the bridge, scrupulously checked the computer monitors, tried to find some point of insertion for expert human judgment, and failed. Then he returned to the deck to prowl around moodily, intermittently gazing out into the gray confusion of sea and sky. His sense of frustrated obligation was palpable. 
+The three others appeared undisturbed by the inescapable idleness, which worried me more. What The Pythoness was inflicting upon us – the basic thing here – was time glut. If it wasn’t a mistake, it was worse. To leave the crew so unoccupied was an invitation to chaos. Eventually, this compulsory liberation from the constraints of practical routine would turn into something. 
+For an hour or so I amused myself with thoughts of pointless duties and diversions that could be invented, and wondered – but only vaguely, and momentarily – whether it was something I should try to throw myself into. The idea was deeply unrealistic. Even were I capable of inventing plausible tasks to mop up everyone’s time, I had no authority to impose them. Frazer alone could do that. Besides, it was already far too late to begin now. The situation was set. 
+Directionless self-entertainment would be no real substitute for a sense of purpose, not for long. The Pythoness was a time bomb. She was far too self-contained, but it didn’t end there. Whatever she could not do herself, could be done instead remotely, from the Port Sidon Qasm facility. The final abolition of our practical relevance took the form of the ‘snakes’. Qasm had decided upon the name, which made enough sense to stick with. There were two. Each was an extendable tele-control cable with a multifunctional tool-head. One would have been plenty, but pairing them was another example of redundant design. There was one located on the port side of the upper bridge, another on the starboard side, but either was capable of reaching any place on the boat. We didn’t see much of them, for the first few days.
+“Nihilism is nothing but too much time,” Brad Miller had said, as Full-Stop was going south. “When people without enough to do begin to look for something – that’s when the problems begin.” That was roughly 36-hours before he was tortured to death in a sound-proofed San Francisco basement by Robert Philcarius – ‘The Entertainer’ – whose Morons’ Law anarchist hacker-cult had trojaned itself into the Qasm servers ‘for kicks’. It was another two days before I found the body, and by then it had begun to smell bad. “Full-Stop for Brad,” the clowns had laughed. Eight of the Morons died – three very horribly – before it was clear there was nothing behind the prank. The outcome was “acceptable” in Qasm’s estimation. After that, it no longer felt as if I was being over-paid. 
+I didn’t – at that point – expect anything like Philcarius-style full-spectrum insanity to afflict us out here, but what would occupy our time? The question became more intriguing when reversed. Why had a crew been needed at all? Might sheer institutional inertia have accounted for it? That was certainly conceivable. But if one man – even two – had been considered prudent, as security against contingencies, why five? Our redundancy was so extravagant it was impossible to ignore. This was a mission demanding next to nothing from any of us. 
+It was a social experiment, even if an accidental one. There would still have been an explosive adundance of time if it had been neatly disintegrated by sleep, but that isn’t what happened. What happened was the other thing.  
+ 
+ 
+§11 —  It would have been possible, no doubt, to select five men less inclined to the bonds of mutual companionship, but it would not have been easy. Between each of us, and every other, stood formidable walls of incomprehension, and actually latent antagonism. The only thing we shared was disconnection. Three weeks without Internet had begun, and nobody had yet mentioned it. Clearly, none of my companions were connective types.
+I had to remind myself that these four had worked together before, more than once. The acknowledgement was instantly amusing. They had all, immediately, disappeared almost entirely into themselves. Frazer was lost in the solitude of command, Bolton in his technical calculations, Scruggs in the mysteries of prayer, and Zodh in whatever heathenish horrors seethed secretly in his brain. None had any solid ground for communion with any of his fellows. They were all following separate paths that led only inward. The intimacy with the sea – which they did hold in common – only distanced them further from each other. The Pacific they crossed was not a place of contact, or commercial intercourse, but for each a very different, essentially incommunicable thing. I could already make out the rough outlines. For Frazer it was a challenge, for Bolton an insulator, and for Scruggs a prospect of final redemption. A gradual erosion of motivation gnawed upon all three. 
+Zodh was the outlier. Alone among the crew, his sense of purpose was in no obvious way attenuated. If anything, it seemed peculiarly intensified, screwed up to a wild and alien pitch. The behavior through which it manifested itself was initially unintelligible. He spent six-hour blocks of time in swirling motion. The overall tendency of his meanderings was a counter-clockwise circumambulation of The Pythoness, in slow gyrations whose consistency emerged from a turbulence of sub-loops and gestural complexities. He appeared to be in the early stage of some artistic or architectural endeavour, encompassing the entire vessel. At first I suspected he was engaged in a process of measurement, since at certain points he stopped dead in his tracks, as if to mentally digest the completion of some arcane metric unit. Gradually, however, these moments of concentration resolved themselves into the performance of a ritual. “Pits-Drop, Pits-Drop,” he repeated, over and over, exploring the syllables, summoning something through them. After the first hundred micro-cycles of the chant, it had become indistinguishable from a dull headache. I tuned it out, to the best of my ability.  
+“Hey, Zodh,” I called out, softly but distinctly, as a test. He ignored me, as I had guessed he would. I let it go. There was time. 
+ 
+ 
+§12 — Do you kill people for a living? asked an unrecognized voice, high-pitched, and sarcastic. Is that what you do? It was jarringly textured, and extravagantly vital – in a way that was only possible for something that had never been alive. The jolt of synthetic animation induced queasiness. Memories are best eaten dead. 
+I turned around, automatically, but no one was there. It wasn’t that I had expected there to be, upon even split-second cursory reflection. The absence was a confirmation, rather than a surprise. Almost certainly, it was an auditory phantasm, woven opportunistically into atmospheric noise. Such verbal apparitions were not unfamiliar to me, or even particularly mysterious – voices that were not quite thoughts, but which guided thought, to intolerable destinations. They were advance symptoms of psychological dissociation, and probably no more than an indication of gathering sleep-loss craziness in this case. Still, distractions – I had seen vicariously – could be death-traps. It would be necessary to keep a tight grip on them. 
+ 
+ 
+§13 — Nothing is hazardous without time, without the opportunity for things to happen. In any game, when estimating the menace posed by the enemy, one asks: how much time do they have?
+Who was the enemy here? I wasn’t ready to assume that we lacked one. 
+Zodh was attempting to teach Bolton and Scruggs a card game. It was something he’d picked up from fishermen in the Sunda Strait according to the tale he was weaving – in hideously broken English – around the edge of the demonstration. The cards were ‘bets’ or ‘beasts’ (it was hard to tell) lashed together by elementary arithmetic. I tried to get some sense of the rules, while pretending to pay no attention. After perhaps a quarter of an hour of such lurking, the impression I had gathered was only barely compatible with the diversion being a game at all. It appeared to be far less about winning or losing – in any conventional sense – than about something else entirely, and whatever that was, neither Bolton nor Scruggs seemed to have any greater purchase upon it than I did. Zodh was being drawn ever deeper into the cryptic circulation of the cards, but Scruggs and Bolton had been lost along the way. Scruggs gave up first, muttering something I couldn’t catch, and then drifting off, directionlessly. Bolton followed a couple of minutes later. Zodh seemed scarcely to notice. 
+I wandered over and squatted down in what had been Scruggs’ place. Zodh didn’t notice that, either. I hadn’t expected to extract significant pattern from the cards, and I didn’t. It was impossible, nevertheless, to miss the fact that something was there. It was an abstract engine. Some kind of sub-decimal fusion process drove flakes of fate around a central three-phase circuit, in a turbular cascade. 
+After perhaps twenty minutes, Zodh looked up, at and through me. 
+“Storm coming,” he said, without discernible affect. 
+ 
+ 
+§14 — Mid-afternoon on the third day, with nothing obvious to do, it occurred to me that it would make sense to try and catch up on missed sleep. No one would miss me, or anybody else. It wasn’t that I felt particularly tired, even after a succession of nights that had seemed completely sleepless. The feeling of detachment had persisted, toppling over at times into an impression of general unreality, but there was still no suggestion whatsoever of an inclination to unconsciousness. 
+I went below deck, took off my shoes, clambered up into my bunk, and lay on my back. Closing my eyes shut down far less awareness than it was meant to. Indeterminate thoughts ground like restless gears. After perhaps fifteen minutes I gave up, climbed down from the bunk, put my shoes on, and went back outside.
+It was a little after half-past three in the afternoon, local time. The sea and sky were still, bleak, and indistinct. Our distance from the destination had to be shrinking steadily, but there was no corresponding intuition. Motion had resolved itself into a changeless condition, without any frame of reference. The Pacific was the closest thing to a terrestrial image of endlessness, a vastness released – reluctantly – from some small fraction of the horizon. There was nothing to compare it to. It defied estimation even relative to itself. 
+Contemplation of the unbounded sea and sky was unsettling after a while. Each was interrupted only by the other, in a shimmering remoteness of uncertain definition. The continuous flight of the horizon from apprehension – into a line at once attractive and intangible – was psychologically exhausting. When exposed to those untrammeled magnitudes for too long, the mind ached from over-stretch. 
+The cargo containment unit called silently, so I went to it. There was at least one absolute non-event in the universe. It was absorbing beyond all reason. 
+              After some time, the door opened and closed behind me. It was Bolton. 
+“The Captain sent me,” he said. 
+I nodded, uninterestedly. 
+“He wanted to know what you were doing.”
+This deserved less than a nod. It was pointless irritation. 
+“There’s a camera.” He pointed to the mechanical eye in the corner. “It feeds to the local core, in the bridge. You’ve been standing here for over an hour, just staring at it.”
+“At what?”
+“At …” He broke off, and looked again, long enough to remember there was nothing to see. 
+The absence pulled at him, until he turned away.
+From certain, very specific angles, the merest hint of reflectivity swam up out of the blackness, hinting remotely at shadows. Perhaps he could catch some cryptic trace of his drowned image, cast down into the gulf of obliteration. It was unlikely, though. The scraps of escaping light had been chewed into abstraction by some buried turbular agitation.
+“So what are you doing here?” he pressed.
+“Watching over it. Doing my job.”
+“You’re expecting it to move?” It was probably intended as a humorous remark. “I don’t like it,” he added, in a smaller voice.
+“This?” I asked unnecessarily, with a minimalistic gesture into the encapsulating void. “What’s not to like?” Then, with a little less flippancy: “It’s a box.”
+“I guess.” He turned to go, pausing at the hatch. “You’re staying here?”
+ “For a while.” 
+ 
+ 
+§15 — Each night was the same. Descent into unconsciousness was impossible. I was trapped at the surface of awareness, as if by some stubborn positive buoyancy. With each downward struggle the imposition of sentience seemed – if anything – to intensify. 
+The sleeplessness of previous nights had long ceased to be dismissable as an aberration. It was the way things were now – an architectural component of out shrunken world.  
+After an hour or so I abandoned the pointless trial and climbed out of my berth, as quietly as possible. The consideration was unnecessary. Nobody was sleeping. 
+Only Zodh still lay in his bunk. He was fully dressed and uncovered, flat on his back, with his eyes wide open. His lips, I thought, were breathlessly animated. If some whisper was emerging, however, I could not hear any of it. Rather than hallucinate random utterances into the sonic vacancy, I turned away, to look around the cabin. 
+Bolton and Scruggs sat side by side on the horseshoe, as if positioned for a conversation that was not taking place. Their exhaustion was so palpable it seemed to sit beside, and between them. 
+Frazer came in from outside. He looked a lot worse than I felt. Even in the gloom of the cabin it was easy to see that his eyes were bloodshot, and recessed among dark rings, as if sunk deep into folds of heavy bruising. 
+“You look like crap,” I told him. 
+He squinted at me grumpily. 
+“Just one more week,” I said. 
+“Yeah,” he grunted. “If the weather doesn’t deteriorate any further. Coffee ready?” 
+Like everything else on The Pythoness, caffeine provision was an automated function. We’d set the allocation schedule within hours of setting out, and had since found no pressing reason to change it. To seize upon the option to re-set the coffee machine as a chance to assert our residual autonomy would have been too degrading to bear.  
+“Do you know what we have in the medical locker?” I asked him. “You think there might be something in there for sleep prevention?” 
+He regarded me quizzically. “How is sleep prevention in any way the problem we have?” But he was already getting it. If we were going to be imprisoned in sleeplessness, it made sense to sharpen the condition. That would mean taking a dubious journey to its end, but our choices in that regard were – in any case – brutally constrained.  
+“It has to be worth a look, doesn’t it?” 
+“Yeah, okay,” he agreed, without further resistance. 
+We pulled out the medicine chest and emptied it, methodically, onto the floor. Bandages went into one pile, surgical instruments into another. When the first stage was complete, and the pharmaceuticals had been isolated, we returned everything else to the chest, in tolerable order. 
+Sorting out the drugs was only a little more complicated. Everything was neatly labeled. 
+“Is this what we want?” Frazer asked, after only a few seconds of sieving. 
+It only took a quick look. I nodded. There were three packets, each containing two foil and bubble-sealed sheets of 24 capsules. It was called Zommodrine.  
+“What the hell is that?” he muttered. I had never heard of the substance before, either. The label included a warning not to consume more than three tablets within any 24-hour period, noting the additional risks for those with high blood-pressure or heart conditions, and then, in large, dramatically emphasized type: prolonged sleep deprivation can produce a range of serious physical and psychological effects. This was totally our stuff.  
+              “We should dish it out,” I suggested.
+              He was less sure. “Do we know what we’re doing?” he asked.
+I ignored the absurd question and went to fetch a cup of water. Dosage instructions were hazy, so I popped two of the plastic blisters, downing the green-and-black caps. 
+“I’ve got stuff to do,” I said. 
+ 
+§16 — A few hours later Frazer stepped in to the machine room. His pupils were fully-dilated, which had to be the zommodrine. 
+“How did I guess you’d be here?” The sarcasm was grating, pointlessly abusive. 
+“It’s not a large boat.”
+He stared – just for a moment – into the compact nothingness. The he pulled a scrap of yellow carbon-copy paper from his pocket, and held it up.
+“Where did you get that?” I asked.
+“Does it matter?”
+“I guess not.”
+“‘Laboratory waste’,” he recited from the manifest by memory, as he waved it at me. “What the fuck is that?” 
+“You ask too many questions,” I said. “It’s annoying you.” 
+“You’re not interested?” There was a hard edge to the question, which glinted with more unrefined hostility than I had noticed before.
+“We’ve done that.”
+“You think?” He paused, just for a second. “Why are you here, Symns? Really?” 
+“Talking to you now?”
+“On this boat.” 
+I thought about it, again. “I’m not sure,” I admitted. “Why are any of us here?” 
+              “Bolton is a serene nihilist,” he responded, at a tangent. “He fills his free time with equations, endlessly reformulating zero. I wouldn’t call that ‘prayer’ – not usually – but I will now. Scruggs prays, every spare moment, the old way. Even Zodh prays – almost ceaselessly – to whatever hoodoo hideousnesses he thinks might be noticing. And then there’s you. … You come here.” 
+The machine room was a quiet place to be alone in, but I didn’t want to help him make his point. 
+“So what do you pray to, Frazer?” I asked, instead. 
+We stood together, staring at the near-perfect patch of blackness, as if before a self-concealing shrine to negative existence. 
+“Do you want to open it?” he asked, eventually. 
+“You mean, force it open?” 
+The thought hadn’t occurred to me, unless at the most subliminal level. It had simply seemed impossible. It was impossible. 
+“Christ, no.”  
+“We could ditch it now,” he suggested, with an eagerness rooted more in brain-stem chemistry than reflection. The idea was – of course – instantly appealing, but only for that half-second of mental inertia, before the cognitive machinery re-engaged practicalities. Then it reverted to transparent senselessness.  
+“Two problems,” I said. “Start with mechanics. The release control has a GPS lock. Activation permission is rigidly location-dependent. So we don’t really get to the second problem, although it goes a lot deeper. The company thinks this thing – whatever the fuck it is – belongs in an ocean trench. I can only assume they have good reasons for that. …”  
+“Why did this become our problem?” Frazer asked. Even his current state of profound psychological erosion had failed to subvert his inner toughness – still expressed through his frame and bearing – so it was disappointing to see him now switching to a tack this pathetic. Countless hours of decompression could only have taught him patience, but to be caged in an enforced vacation among unexorcized command responsibilities was different. The absence of any opportunity for action was a torture for him. It had brought him this low, if only momentarily. He had arrived at his moral nadir.
+I stared at him coldly. “It is our problem.” 
+There was simply no denying it, and he didn’t try. 
+After permitting him a few more seconds of silent submission to reality, I continued: “Unless we get this boat to the right coordinates, there’s no separating ourselves from whatever that thing is.” 
+He was struggling to pull himself together against the undertow of sleep starvation. Crucially, he was ashamed, even though he would never be able to admit it. Seeing his spiritual collapse arrested, I permitted myself a thin smile.
+“How confident are you that there’s anything inside at all?” he asked, after a while. 
+This was a new twist. There was a grain of coarse genius to the question. If he was testing me, it was merely cunning, but I heard something else. He was exploring an inner horizon. 
+“Why would Qasm pay us to do nothing?” I parried, fully confident he wouldn’t know, or even try to guess. 
+“Why would they do any of this shit?”
+He was back. I smiled sympathetically. “We’ll think about it, okay?” 
+A week to go. 
+ 
+ 
+§17 — All four of them were squatting together on the deck, the parasitic micro-community of The Pythoness gathered in a tight cluster. It would almost have composed a semi-circle, arranged around Frazer, if not for Zodh, who somehow strayed out beyond its natural boundary.  
+“A meeting?” I asked, pointedly. 
+              Since the gathering could hardly have occurred spontaneously, it vividly exhibited my exclusion from the crew. I was an unknown factor, set firmly outside the central communication loop by a wall of structural suspicion. The point was too obvious for anyone to mention. Nobody tried to hide, or deny it. 
+Frazer looked up as I approached, his expression unreadable. “No one has slept,” he said. “Not since we set out.”
+              “How sure are you?” 
+“Quite sure,” he said. “Unless somebody is lying.” The last words were marked by a tone of contemptuous dismissal. 
+“You don’t think anybody is lying?” I asked, inclined to awkwardness. 
+              Frazer refused the bait. “Not about this.” He paused, before resuming more aggressively, his stare boring into me, carbonized to blackness by implicit accusation: “Why would they?”
+              “Confusion, stupidity, fear ...”
+“You’re not wanted here Symns,” Scruggs interrupted. “Scram. We’re talking.”
+              I ignored him. If the topic of their discussion mattered at all, it mattered to me. 
+              “The cargo, the insomnia, they’re one thing – aren’t they?” Frazer asked me, as if I might know. Despite the profound suspicion built into the words, his tone had shifted, becoming more conciliatory, as if implicitly snubbing Scruggs’ demand for my expulsion. 
+              I could only throw up my hands, refusing commitment. The hypothesis was roughly plausible, but nothing more. 
+“So, whatever it is, it’s keeping us awake,” Frazer pushed on. 
+“We don’t know that,” I objected. 
+He scowled. “So what do we know?”
+Bolton and Scruggs edged even closer to him, as if to physically reinforce his question. 
+Their adamant solidarity was a provocation. 
+“Forget sleep for a moment. How’s memory working for you guys?” I probed.  
+They exchanged glances, blankly. 
+“Let’s assume you’re right, and everyone here has been sleep-stripped for a week now. That’s 170 hours of continuous awareness, roughly speaking. Think of it as a dilating consciousness bubble, stretching ever thinner. What do you remember from before that? You could start with something easy, like the eleventh of February.” 
+Encouraged by gathering signs of uneasiness, I pushed further. “Or how about the last dream you can recall?”
+“Who remembers dreams?” Bolton objected. “They’re designed to erase themselves.”
+“I remember them,” Scruggs dissented, drawn in despite himself. “Usually.” 
+“But not recently?” I asked, pressing my advantage. 
+“No,” he accepted. 
+The most recent dreams I could remember had been about sleep. I had been surprised they could exist, on the assumption that dreams were a place for unconsciousness to hide itself. Perhaps they were fake recollections.
+“It’s supposed to be impossible to die in a dream, isn’t it?” I asked, diagonally. “Does anyone still believe that?” 
+“There were dreams I never had,” Scruggs said, cutting across me. “Instead.” 
+As a disruption gambit, it was the worst move he could have made. This was the admission I had been waiting for. Yet to have my tentative speculations confirmed so smoothly was deeply troubling, in a way I had not foreseen. Peversely, I was tempted to challenge him. Perhaps it isn’t what you think? His mind was finally in its own place, and the words poured out in a torrent. 
+“There was no light, only burning darkness,” he began. “It was a realm of total blindness, and yet it could be vividly – crushingly – sensed. The foundations of the earth were being ripped apart, and from that ceaseless, Titanic ruin the great city rose, its towers blacker still than the eternal night, smoking pyres of endless sacrifice without meaning or limit, seething with abominations. Gravity had been extinguished, until there was only pressure, and the taste of constant incineration. From beneath the absolute silence, ground upwards from depths below absymal depths, an immense rumbling din crashed through the dense medium, in shattering waves.” He turned to Bolton. “That’s what it’s like down there, isn’t it?” 
+Everyone retreated into silence, until Scruggs spoke up again. “Yes,” he said, as if to an unasked question. “I thought it was some place else.” 
+“Hell?” Frazer guessed. 
+Scruggs visibly prickled, in anticipation of an attack that didn’t come. 
+“It’s hellish enough,” Frazer continued, the placation judged to near-perfection. “But what has it to do with us? This isn’t a diving expedition. Nobody is going down there.” 
+“Unless it’s coming up to us,” Scruggs muttered. 
+“And we’re dropping something into it,” Bolton added. 
+“Do you guys always take dreams this seriously?” I asked.
+“Except it isn’t a dream,” Bolton countered. “No one has been sleeping.”
+“So what is it then?” I pressed further. This was the place I had wanted to take us. Now we were here, I’d lost all sense of what came next.
+“Don’t you see? It’s the obstacle,” he said. “The barrier.”
+I could make no sense of the statement, and looked around to see if anyone else was following. No one seemed to be. 
+“Would it necessarily be so horrible to sleep?” Bolton continued. To everyone other than himself, it was a question that came from nowhere, out of the gray. Time spinning uselessly on stripped gears. 
+“You think that’s the problem?” I replied, inattentively. Nothing seemed more obvious to me than the irrelevance of this line of inquiry. 
+Bolton ignored me, and turned towards Scruggs – an easier mark. “We could take turns,” he insisted, clutching desperately. “Monitor each other. Set up a shift system. Break through the wall of fear.”
+“Christ,” I mumbled in disgust. 
+Bolton fidgeted shiftily. If he believed his own bullshit he was hiding it well. 
+“It could work,” he said. “Think about it. It has to be this.”
+“Assume, just for comedy’s sake, that having someone holding your hand is going to get you across the sleep barrier,” I growled, infuriated that we were wasting words on the suggestion. “How many minutes before you wake screaming in terror? How much refreshing sleep do you expect to get? Or do we escalate to lullabies?” 
+“You finished?” Frazer asked. It was clear to me from his tone that he knew what I’d said had been necessary – even if ideally communicated with less harshness.
+Bolton looked as if he was close to tears, but I could tell that his moment of grasping at childish hopes was done. “Okay,” he said softly, rocking slightly. “Okay.”
+It seemed like the right moment to leave. 
+ 
+ 
+§18 — The door opened, and Frazer stepped in.
+              “Here again,” he noted. “In the dark.”
+              “There’s somewhere else I should be?”
+The absence reached out to touch him – held him for a while. 
+              “Is it because it kills time?” he asked. It wasn’t a hostile question, but I didn’t really understand what he was saying. If he’d described the cargo as a ‘time-breeder’ it would have made no less sense. 
+“Does it?” was the best response I could manage.
+              He started to place his hand on the casing, then stopped, and withdrew it. 
+I wanted to ask him why he was there, but it was impossible to formulate the question neutrally. His presence was irritating. Concentration had become impractical. I would have left, but that would have said too much. 
+We stood in awkward silence, beside it. 
+“It’s not a shrine,” he said, after a while. “It’s neatly-wrapped trash. You know that.”
+              “Why do you care?”
+              “Care what it is?”
+              “Care what I think it is.”
+“You want to know?” he asked. “Really?”
+I nodded, without particular sincerity. 
+“We have some trust stuff to work though here.” … 
+“We do?” The topic shouldn’t have surprised me, and didn’t much, but for some reason the timing did. … 
+“You represent the company.” … 
+“Sure,” I conceded. “Approximately.” It wasn’t something I’d really considered for a while. Out here, wrapped in the boundless emptiness of the Pacific, Qasm seemed very far away. 
+Once mentioned, the relevance of my employment contract was undeniable. When I tried to mentally pull up the details, it came back in multiple versions. The fragmentation had to be some kind of security ploy I’d settled upon earlier, then deliberately de-memorized, but now it seemed odd. 
+Frazer and the others would most probably have been somewhere out at sea, even if Qasm had never heard of them. They were on the Pythoness because she was a boat, and that’s what they did. It wasn’t at all like that for me. I was only on the Pythoness because the company wanted me to be there, for some purpose that was in no essential respect nautical. The question was, ‘why?’ 
+From Frazer’s perspective, it had to be a concern.  
+“I’ve no idea what’s in there,” I said, skipping the conversation forward by several predictable steps.  
+“Yeah, I believe you,” he accepted. “That’s not my central concern. The question I have to ask you is this: what’s your level of commitment to this mission?” The stilted formality, with its display of social awkwardness diverted into linguistic convolution, would have been amusing under alternative circumstances. Right now it was merely another layer of irritation.  
+“Would I get us all killed in an attempt to reach the objective?” I translated.  
+“Something like that.” 
+It was a good question, and surprisingly hard to think through to the end. Crucially, there was a near-perfect match between the company’s operational interests and my crystallizing inclinations. It was undeniable, when examined, that the conclusions I’d reached about the best way to proceed coincided precisely with the instructions I’d received. From outside, that had to look strange – and even sinister. It wouldn’t take any peculiarly extravagant leap of paranoid speculation to see something ominous there. I wasn’t sure that I didn’t see it myself. If I was being played, it would have to look much the same, in every detail. There was a geometrical crash-site of obvious angles that remained unexplored, but my belated attempts to rectify the neglect were already becoming increasingly difficult. Exhaustion had reduced thought to a soggy crawl. Logical steps slipped backwards in the sludge. Each beginning over was executed more incompetently than the last.  
+“I don’t trust the company,” I tried, hoping the words would drag thought after them. It sounded evasive, even to me. “It pays me what it does so that I don’t have to trust it. That’s business. But I do have to be able to trust you. Otherwise, there’s no sleep.” 
+“There’s no sleep anyway,” he grumbled. 
+“Unless …”
+“Unless what?”
+“Unless we’re thinking about it the wrong way.” 
+It had taken a while to occur to me. When it did, eventually, arriving in a kind of non-dream, it was almost as if it had always been there. Shadows cast onto the deck from the rotating antenna made a shifting pattern of stripes, rhythmically emerging into distinctness, and then dissolving back into continuity. It produced a crude diagram, applicable to any number of problems. Scanned from one perspective, it was an oscillation. It might have recorded serial alternations between a pair of complementary states, such as waking and sleeping, most obviously. When mentally rotated, the succession was parallelized. It turned into a simultaneous array, or a set of partitions, like a row of storage lockers. The flicker was hypnotic. Without quite realizing when, I had slipped into a fugue state, and begun to think about remembering dreams that never occupied time. What if sleep wasn’t up ahead, out of reach, but concurrent, alongside? Perhaps it was next to us. 
+              “You’re a boat guy,” I said. “You have to spend time thinking about compartments.” 
+“Sure,” he agreed. By the end of that single soft syllable his mind had traveled somewhere, opened and then re-sealed a door. “Isolation. Containment problems.”  
+              “Separation in space – or at least something spacelike.” 
+              “I’m not really getting this,” he said – although I could see that he was. “Where is sleep?” he mused, in confirmation. “That’s nuts.” He stood up. “We don’t have time for metaphysics.”
+              “We don’t?” I needled. “There’s a time-shortage I missed out on?”
+              He was about to leave, but then decided not to. Soft hallucinations drew green threads around his contour, sharpening into complex tangles upon his face. The light hurt my eyes. 
+              “You’re saying what?” he asked. “That we’re still sleeping – dreaming – but in another compartment? Behind a bulkhead?” 
+              “If not that, why the stray memories?” 
+“Scarring,” he suggested immediately. “Damage.”
+              It wasn’t an alternative, and he knew it. “Okay,” I agreed, to move things along.
+“Thing is, I need to keep it out of my head,” he said quietly, but firmly. It was a horrible statement, frank in its brokenness, nursing black infinities. 
+“You need to stop thinking about it?” 
+He meant more than that, I was sure, but I needed to hear it spelt out.
+“I don’t know.” It was overwhelming him. Frazer was acute enough, but he wasn’t a philosopher. At least, he hadn’t been. That spared him from the kind of intellectual overheating Bolton was increasingly vulnerable to, but it left him adrift among vague shadows. “You sense it, though, don’t you? The attempted intrusion? It’s prising open the inner seals. We might not have much time – whatever it looks like.” 
+“If we’re going to get through this,” I insisted, trawling deep into my final reserves of depleted mental clarity, “we’re going to have to make sure we know what the hell you’re talking about right now.” 
+In fact, the suggestion he was making had already persuaded me, almost entirely. There was some kind of  cognitive invasion underway. Whatever was happening, our apprehensions were part of it. Every time we got a little closer to grasping it, it worked its way a little further in. It wants us to think about it. That was the paranoid construction. 
+“I’ll tell you what I think,” he said. “Whatever is in that box isn’t it – but only what brought it, fetched it.” 
+“A door?” 
+He nodded. “It makes sense, doesn’t it? That’s why they panicked. They let something in.”  
+“From where?” Perhaps the dreams might have told us, but they were sealed-off, somewhere else, and in any case by all indications unintelligible. At least we both knew – now – what they were about, even if that was nothing distinguishable from absolute obscurity itself.  
+“Fuckers,” he spat in frustration. “They’ve fucked us so bad.” It would have been cruder – I guessed – if he’d been less exhausted.
+My thoughts were heading in a different direction. How could they possibly have imagined that this mission was any kind of solution? That it – the unknown visitor – was going to simply be crushed, down there in the abyss? Where had that idea even come from? There was a dark trend to these questions. Whose idea was this, really? I was tempted to write it down before it was lost, but everything was already lost. Records were discouraged. 
+“Very roughly, what do think is in there?” he asked, breaking into my thoughts. It was that question again – the only one that seriously concerned any of us – and every part of it was a problem. Was it ‘in there’ – really? I seriously doubted it. ‘There’ was unfathomable. Worse, though, was the suspicion that even these doubts, like all of our thoughts now, had been compromised at the root. It was the question, or the problem, participating in us through our preoccupation with it. Our attention fed it. With each meal it dug itself deeper in. 
+‘It’ meant nothing, though. It was a place-holder for confusion, a sign of ignorant panic. There had to be another name for it. None of us had the slightest idea what that might be.
+              “Were you ever told about McGuffin?” he asked me.
+              The name drew a blank.
+ 
+ 
+§19 — The sat-nav display had something extraordinary to show us, and it took no special expertise to understand what I was seeing. The slow vortex seethed malignantly, dominating the upper part of the screen like a vast meteorological buzz-saw. It was monstrously hypnotic. 
+“We’re going to collide with that?”  
+Frazer nodded. “Within the next twenty-four hours, unless we change course. 
+“That’s something we can do?” 
+“You know we can’t.”
+“So?”
+“So we have to contact the company.”
+“They won’t like that.”
+“We have to contact the company,” he repeated, as if to an imbecile.
+“Okay.” There was no point fighting it. “What do you want me to do?” 
+“You have to persuade them to restore navigational control.”
+“To you?”
+“Of course, to me.”
+“Be realistic …”
+He cut me off. “Now,” he insisted. His tone pretended to an authority that we both knew didn’t exist. I shrugged. There was no need to make an issue of that – for the moment. 
+“Okay,” I conceded, once again. This was part of the play – something to explore. Qasm had decided to put Frazer on the boat. Let them argue with him. 
+It took only a few keystrokes to make the connection, on a high-bandwidth tight-security channel. 
+The voice at the other end was meticulously dehumanized, on a female diagonal. That was Qasm corporate culture. Anybody who wasn’t a robot was under an obligation to imitate one. 
+“Is there somebody else in there with you?” she asked. Even to admit that she already knew the exact position of eveybody on The Pythoness was apparently more than she was willing to share. 
+“The captain is here.” 
+There was a short delay, while they processed that information. Our intention to include him was the surprise factor. 
+“We want him to leave.”  
+“I think he needs to be involved in this conversation.” A longer delay this time. 
+“We don’t understand the need for a ‘conversation’.”
+“I can’t argue with it, so I’m arguing with you,” Frazer broke in. 
+‘It’ was the boat, I noticed. That was interesting. I stepped back from the console, saying nothing. There was nothing to argue about, but Frazer had to learn that for himself. We’d submitted an evasive course correction, but I knew it was going nowhere. 
+“The proposed course does not conform to mission parameters,” Qasm predictably responded. “We’re satisfied Pythoness is representing company objectives accurately.”
+“By steering us into a super-cyclone?”
+“All our data indicate that the storm is survivable.”
+“You’re killing us.” It was stated calmly, as a simple matter of fact. It wasn’t – I thought – that he was convinced we would die. His conviction was only that Qasm had no concern for our survival, which was beyond all plausible dispute. 
+“That outcome is not anticipated.”
+Qasm didn’t care, and didn’t pretend to. It was honest – which was attractive to me – although that wasn’t a judgment to share with Frazer right now. He’d probably have accepted any amount of bullshit as the price for an iota of consideration. I’d half-forgotten that he didn’t know them like I did. This had to be a serious learning-moment for him. 
+“How can an extra day matter?” he protested. 
+It was hard not to smile. He didn’t understood anything. 
+“The mission schedule falls outside your domain of responsibility, Captain,” came the robot-bitch reply, without the slightest discernible hesitation.
+Frazer wasn’t the type for incontinent rage, but I expected him to smash something. He had no ‘domain of responsibility’ – Qasm had seen to that – and now he was being asked to absorb the consequences without dissent.
+I’d have handled the exchange better, but still without significant difference in outcome. There was no possible significant difference in outcome. Pits-Drop was on automatic for a reason.
+Frazer tensed himself to reply – and stopped. He cut the connection.
+“Fuckers,” he said. 
+We were going into the whorl. 
+“Just for comparison, what am I seeing here?” I asked, drawn once again into the sat-nav display, where the green monster turned. “It looks extremely bad.”  
+“Probably the worst I’ve ever seen,” he confirmed. “It will tear into the Philippines before the end of the week, which is triggering a panic there already. Before then, we get it.”
+“But we can cope?”
+“In theory.”
+“Anything we can do?”
+“Beyond the obvious – stow everything tightly, lash everything down that could move, start praying – not really.” 
+“Okay.” The absence of options was a kind of relief. “The others know?”
+“Only the basics.”
+“There’s more than ‘basics’?”
+“Not really. No.” Not quite a smile. 
+ 
+ 
+§20 — As we passed through the storm’s outer squalls, the weather worsened relentlessly. The Pythoness had begun to pitch heavily into the swelling waves. The sun was a pale disc, morbidly withdrawn. As dusk drew close, what had been diffuse fog thickened into something like the interior of a cloud, precipitating directly around us. I was feeling green, and in no mood for Scruggs. 
+The foul weather didn’t seem to bother him much, but something else did. 
+“The hum,” he whined. “It’s driving me insane.”
+He was telling me, I guessed, because – by now – anything bad happening on the boat led his mind back to me. There was an insectoid lack of reflection to it. I scowled. 
+“It never stops,” he added. Sleeplessness had a sound, or something close to one.  
+It was quite obvious what he meant by ‘the hum’. Sure, it might have been designated in other ways, but the name worked. The imprecision was unavoidable. If it had really been exactly a hum, it would not have had the same power of insinuation. It drifted in upon a dark current of obscurity.  
+I thought that perhaps I could hear it, but I wasn’t sure. The sound – if that’s what it was – inhabited some periphery outside all intuition, at the sub-sonic lower edge of the human auditory range. There was a remoteness, but of some other kind – utterly unlocalizable. It was not at all like a voice, or like music, though it evoked both, distantly, as irritated nerves sought to latch onto the blank carrier signal.
+“You can hear it though, right?” he asked again. 
+“No. Nothing.” 
+“Don’t lie,” he snarled. We had begun saying that to each other, a lot. 
+I smiled at him consolingly. “Sorry.” 
+He stepped a little closer – uncomfortably close. Instinct urged withdrawal, but I muted it, recognizing that confrontation would not be so easy to avoid. 
+“Back off Scruggs.” 
+“And if I don’t?”
+“There’ll be a stupid fight. You’ll lose. That would be very bad.” 
+It was almost possible to sense fate arriving. The whisper of death, soft as a moth wing, stroked the anterior regions of whatever broken god’s toy played the part of his soul. As the tremor of insight passed through him, he flinched, almost imperceptibly. 
+The climax of tension arrived, and passed. He took a step back, then another. One more, all the way to the railing this time, and we were out of the pressure zone.
+“Why are you protecting it?” he asked. 
+“‘It’?”
+“You know what it is.”
+“You really think that?”
+“You have to. You’re lined up with it. You nurse it. Everything you do helps it.” His eyes sparkled with hate. It was still rage, more than certainty, that was pushing itself through into his words.
+“I don’t know what it is. None of us do.” 
+“There’s no ‘us’.”
+“So why are you nagging me about it?” 
+“Because you know something,” he said, admantly, and repetitively. “This shit – all of it – is on you.” 
+The ceaseless, inconclusive antagonism was nauseating, and it mingled with the lurching of the deck, indissolubly. The falling away of the world into ocean troughs never quite settled into a rhythm. It was like a mad anti-gravity experiment that could only end in vomiting, but the thin slurry of coffee and zommodrine in my guts offered no purchase to the erratic heaving. So it merely gnawed, sub-critically, at the tossed remnants of composure. 
+“It’s all on God, isn’t it? I mean, that’s what you have to believe? So why not more prayers?”
+“I’ll tell you what I pray for,” he said, stepping closer – too close. “I pray for justice. For righteous punishment.”
+“Isn’t that just being?”
+“Confused heretics have always thought so.”
+The response surprised me. ‘Heretics’ sounded far too high church for Scruggs. I’d imagined his forebears stoking the execution pyres of people who spoke like that. 
+“It’s all on God, Scruggy. You just don’t understand what he wants.”
+ 
+ 
+§21 — The last vague suggestions of distinct terrestrial existence were erased in the night. The cosmos was a silent storm, a stellar cyclone. Zodh lay on the deck on his back, gaping pupils saturated with stars. 
+Sleeplessness seemed not to affect him at all. Among all of us, he alone was not visibly deteriorating. 
+I watched from a distance, trying to piece him together from the few fragments that I had – getting nowhere. 
+The sea was ominously calm, the sky heavily overcast – but still. It felt like a final respite. I had taken three zommodrine caps half an hour before, vacuuming exhaustion into some unpayable liability, pushed back somewhere comfortably beyond the immediate horizon. Existence was, I guessed in that moment, okay. 
+Then Scruggs appeared like an unwanted wraith, suspending himself in my attention zone, but not quite approaching. There was no way to dispel his presence without engaging him, and that was the last thing I wanted to do. He hovered – for maybe fifteen minutes – saying nothing, intermittently staring. Finally, in accordance with some inflexible private schedule, he came closer. 
+“You have some racist shit in your heart about Zodh?” he asked. 
+“Totally,” I admitted. “He’s a repulsive savage. I don’t even think he’s sane. No – cut that – I’m reluctant to categorize him as human.”
+“He’s my friend.”
+“Sure he is.” It wasn’t necessary to emphasize the sarcasm, though I smiled a little. 
+“It’s because he believes in something. That’s why you hate him.”
+“I’ve no idea whether he believes in anything or not – and I don’t hate him. I don’t even dislike him.” 
+“But that’s why – isn’t it?” The stubbornness of the remark was the whole point. He wasn’t looking for nuance.
+“So this is about you?” We both knew it was. If he’d had anything to say about Zodh’s ‘beliefs’, I would have hung upon his words. The topic came second only to the cargo on my list of gripping intellectual preoccupations. Scruggs – in contrast – didn’t care. He had his own inner light to follow, and it was so dazzling it cast everything else into irrelevance.
+“It’s about faithlessness. It’s about evil,” he said. “The nothingness devouring us? That’s your message.”
+“If he’s right about what he believes, you’re not.” Even the very little I understood about both told me that.
+He ignored the divisive logic, contemptuously. 
+“Your wrong is deeper,” he said. 
+ 
+ 
+§22 — Frazer didn’t want to talk, but I did. He flitted among the screens, every detail of his posture radiating an intolerance for distraction. I waited, silently, until the pretense of productive activity had tilted over into transparent farce. 
+“What can you do?” I asked. Information without practical discretion was worthless. 
+He growled noncommittally and raked his fingers through his hair. He could see there was no convincing rejoinder. 
+              “What is it Symns?”
+              “I’m worried about Scruggs.”  
+“We’re descending into some kind of alien Hell beyond sleep. A storm of truly biblical proportions is about to engulf us. And you’re ‘worried about Scruggs’?”  
+“He’s going to snap.” 
+I had no doubt at all that he was aware of the impending event. Scruggs had been hurtling towards crisis on a parabolic curve. Everyone had been keeping out of his way, as if from an ignited dynamite stick.  
+“Scruggs is okay,” he said.  
+“No, he’s not okay.” 
+The simple factuality of the statement chipped through his crust of fake delusion. Frazer swallowed back the dialectical idiocy that he had been about to persevere with. “Alright,” he said. “What do you think he’s going to do?” 
+“Seriously,” I admitted. “Fuck knows. Something bad.”  
+“So what are you recommending?”  
+“It was more of a begging for help thing.”  
+Frazer was quietly enjoying my discomfort. “Yeah, he hates you,” he acknowledged. “Understandably.”  
+“When he cracks, I might have to hurt him, badly – or worse. You realize it’s something I can do?”
+He registered that. The next response was cautious, and far more mentally-engaged. 
+“Violence is part of your skill-set?”
+“Not the biggest part, but a part.”
+“A professional competence?”
+“Yes.”
+“Then you’d take Scruggs, I guess,” he acknowledged. 
+“We’re stuck together, on this boat, so it’s complicated.”
+“I can see that.” Comprehension crept in, slowly. He wasn’t mean enough for this type of insight to come easily. “You’re saying you’d have to kill him?” He was getting it. 
+“Last time I looked, we don’t have a brig. Or even handcuffs.” 
+“If you’re asking for my permission …”
+“Of course not,” I broke in. “I’m trying to explain why this is a problem.” 
+“And not just your problem?”
+“Exactly.”
+There was a tense hiatus as he mentally digested the point, re-appraising me, and what the mission was turning into. Pits-Drop hadn’t been about killing, even a little bit. Now he had to wonder whether perhaps it was. 
+“You would, wouldn’t you?” he noted, scrutinizing me carefully. “What the hell are you Symns? I had you down as a corporate errand boy, but now I’m wondering if you’re some kind of hit man.” 
+“Why would Qasm put an assassin on a waste-disposal boat?” 
+“That’s supposed to sound as menacing as it does?”
+“No.” It hadn’t been. 
+“Professional killers have to cost, don’t they? So why stow one here, with us? That’s the question I’m now asking …” He tailed off. “Did you consider that we might need to protect ourselves from you?”
+“Continuously.”
+He laughed. There was a hint of madness in it.
+              “And I’m not a ‘professional killer’,” I added (though I had recently begun to wonder about that). “Far more of a freelance corporate errand boy. I do deliveries. The killing only happens when things go very badly wrong, which they do sometimes – especially recently. It’s not a result built-in from the start, and it’s not something I like. When accidents occur, I have to deal with them. They’re still accidents.”
+              “Prickly issue with you?”
+              “A little.”
+“Look,” he said. “Scruggs gets into fights sometimes. On shore, mostly. Two scraps with Zodh, that I know about. He even took a swing at me once – which didn’t work out well for him. No one ever said anything about killing him over it.”
+“Before.”
+I left it at that, because I didn’t like the way this was going, anymore than he did. 
+ 
+ 
+§23 — The storm was a black wall. Its thrashing curtains seemed to define the boundary of creation. ‘Biblical’ had been Frazer’s word. Perhaps it might have been improved upon, but I couldn’t see how. 
+There was no point asking whether we were going into it. We were almost there. Apparently impenetrable ramparts of world-splitting gloom directly obstructed our course. That we would soon all be dead was less a pessimistic prediction than a vivid intuition. To envision anything except annihilating chaos lying beyond the screen far overstretched my imagination. 
+It was early afternoon, at the edge of the crossing. In less than an hour we would have switched over, to the other side of the universe. I washed down another couple of zommodrine caps with a gulp of cold coffee, and waited.
+              It was just bad weather for a while, polarized upon a gradient of darkness. The Pythoness bucked like a whipped animal. Behind us the hints of a lost sun still lingered. Ahead of us lay self-swallowing night, turning only into itself. 
+By coincidence, Bolton had derided the description of tempest waves as ‘mountainous’ only a few days before. He read a lot of seafaring fiction, and balked at the traditional hyperbole. “They’re not tsunamis,” he’d said. They did not tower – beyond all possibility of quantitive grasp – a quarter of a mile or more above the rent base level of the sea. Physical reality did not dissolve in a storm. His case had been lucidly argued. It made perfect sense at the time. 
+              We had sealed everything and retreated to the main cabin. There was no earthly reason to venture outside, beyond the perimeter of our semi-transparent capsule. To do so might, perhaps, have been survivable. After all, mariners throughout history had surely done such things. I could not – even for a moment – conceive how. 
+“Hold on,” Frazer said. They were the most unnecessary words I ever heard from him. 
+              Copying the others, I had used lengths of nylon rope to lash myself to the metal frame of the horseshoe seating. Blankets and life-vests served as shock-absorbers. 
+As we went into the wall, we were seized by forces beyond all human capacity for understanding. The scene outside was similarly incomprehensible, dominated by fluid masses in motion, immense beyond all prospect of articulation. A writer of sufficient morbity might have grasped at this unspeakable, raging, liquid horror, as a consummation of nihilism and a spiritual ravishment, but it said nothing to me. It was mere stupidity, scaled up to the proportions of cosmic aberration. Nobody spoke. Bolton discernibly groaned, his exhalation audible even through the crashing din.
+The waves were not mountains. I laughed inwardly, now, at this cheap concession to intellectual sobriety. The Pythoness was a fragile speck lost amid crawling hills and valleys of water. We could only stare out upon it, appalled, our minds broken upon the edge of its vast negligence. 
+From beyond the shrieking insanity of the wind, twisted beyond torture, a black mass was breaking in upon us. It was the storm in itself – the thing. A continuous rumbling – tuned to the nerve-strings of our guts – shook us down through its nested chasms of somber resonance, ever deeper down, into the very death-rattle of the world, reverberating eternally among the bass-bins of Hell. Wild hammer blows rained down upon the boat, battering us into bruised prostration. We each clung to nearby fixtures, desperate for relative immobility, until our muscles screamed. 
+Intermittently, the scene was wracked by spasms of electric discharge. White slices of horror interrupted the thundering darkness – searing nightmare flashes of cosmic incoherence that raped our retinas into tormeted submission. I no longer knew whether my eyes were open or shut. I no longer knew anything. 
+Then we were upside down, or worse, clinging to what we could, as geometry snapped – releasing us into profundities without dimension. The fabric of space had splintered into a wreckage of impossible angles, colliding planes, and discontinuous vectors. The sensible world had simply collapsed upon itself. For some indeterminate period, all that came through was the spatial noise of randomly shuffled video accompanied by audio howl. It was cut-up multimedia from the interior of a time-stripped Azathothic spin-cycle. From inside, it seemed unimaginable that there could ever be an end, but eventually there was. 
+              Scruggs was working his way towards me through the swirling ruins of space. His limbs were outstretched, bracing him awkwardly against the tumbling surfaces. Strobed by the lighning flashes, it looked as if he had been crucified upon gravitational collapse. His expression was grimly determined. 
+I prepared myself for some kind of lunatic death-fight in a spinning spatial frame.  
+              “I know it’s you,” he said. 
+“Another pronoun with no anchor.” It wasn’t necessary to feign weariness, or contempt. 
+His eyes glittered with madness. 
+              “So how’s the storm going Symns? It’s what you wanted, isn’t it?” 
+The others had to have heard, catching his words at least in rough outline, but they said nothing. I was reluctant to let my gaze drift from the maniac closing in upon me – even for a fraction of a second – but in my peripheral vision I could see them all watching, fixedly, and silent. They probably thought something was about to be settled, one way or another. 
+“It’s the way you pretend there’s no God. But you know, don’t you? You know what a storm is, what any storm is – and this one in particular.” 
+              He was close now – much too close. His face – pitted like an ill-treated asteroid – was only inches from my own. 
+              “The Lord judges you Symns.”
+              “Christ, Scruggs, get a grip.” 
+“We arrive in the release zone, and this happens – the great test, and yet here we still are, nestled in the hands of the almighty. So what now?”  
+              There was a deafening crash, as if the iron gates of the Eschaton had been blasted open. 
+              
+ 
+§24 — My auditory nerves were shot, emitting nothing – for perhaps a minute – except the thin whine of physiological damage. As my hearing began to restore itself, patchily, the ruinous proceedings rushed in. There was a brief scream of tortured metal, immediately succeeded by a sharp crack.  
+              Frazer and Bolton exchanged grimly-charged glances. They both seemed to understand what had happened. 
+“What was that?” I asked Bolton. I could still scarcely hear my own raised voice. 
+“The cage,” he said. “It could only have been the cage.” His face looked ashen in the gloom. 
+Our lightning protection was gone. 
+The entire superstructure had disappeared into the sea – its splash lost among the thunder and typhoon ravings. Frazer was already unfastening himself from the horseshoe, face aglow with the firm intention of action.
+The storm had crossed its peak, but it had scarcely begun to subside. The idea of leaving the cabin was abhorrent to me in a way that is hard to adequately describe. Clearly, such a course was unavoidable. Frazer was already pulling the hatch door open. It was like the breaking of a dike. With the flood of water came a wave of sound, dominated by the banshee wail of the wind. An unmuffled peal of thunder came close to unfixing my precarious handholds and throwing me back off my feet. The boat pitched crazily, each lurch now a local tide, pouring water in and out of the cabin, stirring us into it. Things carefully stowed and fastened were torn free. We half crawled, half swam, to and out of the door. 
+Outside, in the heaving cross-lashed chaos, we were greeted by a scene of lurid abnormality. The Pythoness was enveloped in a cold green flame. A spectral luminosity had wrapped itself around every particle of exposed metal. Its variations in intensity were distributed in a cryptic pattern, speaking somehow of traffic, and circulation. In places, it had concentrated into patches of blazing incandescence. From these zones of green dazzlement it spread like an amoeboid wraith, advancing exploratory tendrils into regions of strategic significance. The bridge, in particular, was ablaze with it. From the single machine room window that was visible from where I stood, a hard alien light burned. 
+Whatever it was that had happened, it had awakened the snakes. They both roamed the vessel, furiously animated, swathed in the green light, tool-heads unfolded into artificial flowers. Despite their luminosity, it was difficult to track them. They moved with the sinuous cunning of serpents. 
+The deck was pitching wildly. Horizontal sheets of rain cut across us. I clung grimly to the rails, expecting at any moment to be fried by twenty million volts of electrical ruin released from the grumbling sky.   
+The glow pooled thickly upon the deck around my feet, spiraling up and around my body, down my arms. There was no pain. Straight above, the upper bridge was wrapped in a rotating green halo, illuminating the spiny wreckage of support rods, where the cage had been ripped away. 
+Why were we out here? I could only assume that the plan was to repair our lightning defenses. It would have been laughable, even under very different conditions. Gusts of hysterical amusement tagged at the fibers of my brain. We’d need coils of heavy copper wire, I guessed. They had to be found, then carried through tilting storm-drenched chaos and up into the aura of doom, to be fixed in place, and all the time they’d be an open invitation to electrocution. There were only two places where they could possibly be. 
+The first of the snakes had been shadowing us since we left the cabin. It avoided close proximity, without drifting far out of range. When we split up, I lost sight of it, before – seconds later – picking up its signature lateral undulations by the door to the bridge. 
+When I tried to slip past it, and inside, it maneuvered gracefully to obstruct me, extended drill-bits shrieking, as if enraged. Its manipulators clicked like pincers. The thought of fighting it never seriously crossed my mind. I backed away, slowly. 
+So, it had to be the machine room. The second snake had posted itself there, as a sentry. It had bitten Bolton, badly, on the side of the face. I saw him fall back, shocked and defeated, almost losing his grip on the handrail. There was a lot of blood. 
+He was yelling at me, but at first his words were lost in the wind. They became audible as I approached.
+“Who’s controlling them?” he was shouting, to no one in particular. It was less a question than a cry of mental revolt. 
+Nothing was controlling them. At least, from what we had seen, they were as autonomous as any animal we had ever seen.
+A short storm-flogged haul along the rail took me to the machine room. The technophidian guard at the hatch twisted aside to let me through, and I stepped in. The glamor had been concentrated there to an extreme degree. It shrouded the containment unit in a turbular, harsh luminosity, without compromising the heart of darkness. I stepped over to it, prepared to do what was necessary, but nothing was being asked of me. Nothing had changed. It was pointless to be there. Now that I could look around in that cramped space, the speculation that it might have held bulky stocks of electro-conductive cable seemed unthinkable. It took only the most perfunctory exploration to confirm this negative fact, beyond all question. 
+Whatever the others had been trying to do, their endeavors had led them to the same conclusion as mine. 
+Bolton had already withdrawn back into the cabin, to bandage his wound. The rest of us stood in the thrashing rain for a few moments, stupidly dazed. 
+“This boat is fucked,” Frazer stated, calmly. 
+ 
+ 
+§25 — It was eerily calm. After what had been threatened, our survival seemed uncanny – unreal. We sat on the horseshoe, mostly silent, exhausted to the point of perverse ecstasy. After hours of habituation to the storm waves, the stillness was an inverted lurching.
+“There’s something under the boat,” Bolton said. 
+“Something?” Scruggs responded. He was too tired to sound genuinely interested.  
+“Something big.”
+“You’ve seen it?” Frazer asked. It was clear that he didn’t expect an answer in the affirmative.  
+              Bolton hesitated, as if vaguely panicked, and mentally paralyzed by an uncertainty he was unable to fix in place. He really had no idea what he’d seen. I sympathized, though coldly and sparingly. His lack of mental discipline was breaking him on the rack. It wasn’t going to be pleasant to watch.
+“Did you see this ‘big something’?” Frazer pushed. 
+              “Yes, I saw it. Of course I saw it.” 
+              “The confusing part of this to me, Bobby,” said Frazer, softly, “is that you’ve been down here in the cabin for over an hour, and before that outside in the night. So there’s no possible way you could have seen anything.”
+              It was surprising to hear this stated with such brutality. 
+“It must have been before,” Bolton tried. “I forgot it somehow, and then it came back. It hid for a while. It doesn’t want to be noticed.” 
+“Listen to yourself,” Frazer said. The demand was useless. Bolton was lost in his own confusion, beyond reach. 
+“Yes,” Bolton insisted, completing a circuit within some deeply buried track of interior monologue. The look in his eyes didn’t belong on this earth, or seem to have originated there. “That’s it. I’d forgotten. It was when we stopped, at the island …” 
+“There was no island.” Frazer was struggling to keep his voice level. Shouting was not going to help, he no doubt fully realized, but Bolton’s inability to get a grip on his own florid delusions was already pushing the discussion over an edge, and taking him with it. One additional cycle of this exchange and it would be an empty verbal brawl. Then Frazer would silence Bolton within a small number of minutes. The signal would have been cut, but remain undead. Whatever it was that we were haunted by would have thickened, and darkened.   
+“Wait,” I said. “I want to hear this. We all should.”
+Frazer got up, without saying another word, and left the cabin. It wasn’t petulance – he just wanted no part of what was going to happen now. He was voting with his feet because command wasn’t going to work. Bolton’s shattered gaze followed him out. 
+“So, this island …?” I prompted, to pull him back. Whatever couldn’t be scraped out of him fast would be lost forever.
+For a moment he simply looked dazed, drowning in the swirl. Was it already gone? I was less than a second from slapping him hard across the uninjured side of his face, to break the spell, when something engaged, and a spark re-ignited in his eyes. He was looking at me, and no longer into some private reconstruction of the all-consuming horizon. “Yes, the floating island …” 
+Some ship-wrecked part of him recognized that it was disintegrating on a reef, beyond rescue. There was only a little time remaining to salvage what we could. 
+“Tell me about it.” 
+“You don’t remember?” he begged. 
+“It doesn’t matter,” I said. “It’s your version that we want, right now.” 
+“My version?” He was straying already. 
+“We were at the floating island …” This was closer to a straight-up lie than I had hoped would be necessary. 
+“Oh, yes …” Things were reconnecting somewhere behind the shimmer of glazed vision. “It was incredible, wasn’t it? The scale of it. A huge mass of jungled mountain drifting into us from out of the mist. It was like …” He was stumped. It hadn’t been like anything. 
+“And then?”
+“Did we all go ashore?” The directionless splashing was back. At some level, he knew the story was separating him from everything.  
+“No, it was just you Bob.” It was another step into cynical deceit, but I could see no alternative. If it was to come out, he had to be cast into his own story. That was already settled. He’d taken the steps that mattered some hours ago, and probably much more distantly before. 
+“How long was I there for?” he asked me. 
+I shrugged. There was no point at all in my telling him this tale, or even helping him to click it together. I didn’t know where to begin, and – more importantly – any more of this would have made it surreptitiously mine. “Quite a while,” I said eventually, with enormous reluctance, retreating tactically into the indefinite. The nudge seemed to be enough, because he leant forward slightly, focusing. 
+“There was a lot of climbing,” he said. “The paths were like stairs. It was tiring, but it wasn’t mountaineering. I had to remind myself, this isn’t a temple. No one cut these steps, or built these walls.” He paused dramatically. “Was that true, though? There were no blocks, of course – no architectural pieces. It had been made as a single thing, coherently. And it was old. My geology isn’t that great, but the structure had to have been completed eighty to ninety million years ago, late in the Cretaceous, by the look of it. Soft, discolored chalk, stacked up in undistorted strata, the horizontal layers scarcely disturbed – where they were visible, beneath the growth. Lichens, moss, creepers covered almost everything. It was damp. No bugs that I could see, though, which was strange – so no flowers. Then I noticed. There were signs on the walls.”  
+“Signs?”
+“Glyphs of some kind, artificial patterns, incredibly detailed, and obviously ordered by a communicative intelligence. They were densely packed with information, cryptically irregular, and fractalized – based on a scalar organization of what had to be systems of meaningful parts within parts, nested recursively, conforming to a mathematical scheme. Naturally, I couldn’t understand them at all, at first …” He paused, concerned, perhaps, that his flight of recollection  was accelerating into desolate outer tracts beyond the perimeter of our patience. Of all the things he might realistically have worried about, that was not among them. 
+“Go on,” I urged.
+“There was a code, evidently, so it couldn’t have been what it seemed. The puzzle announced itself openly, but it was deeply difficult. It was like nothing I had ever encountered before. You know – this might sound crazy – but it still seems as if most of the thinking I’ve ever done in my life took place up there, running sub-routines I hadn’t suspected human brains could hold together. There was time, somehow, for an entire research project: orchestrated, phased, colossally sub-divided within itself.” He looked up, or out, his voice lightening. “How do you decrypt signals from an alien intelligence?”
+“Aliens?”
+“Not extraterrestrials – that’s a conception including far too much positive information. It’s already a theory, an image, and it’s not even relevant. ‘Alien’ meaning only something you know nothing about. Something utterly not us. An unknown cognitive process …” He paused, perhaps worried that he was losing me – which he was. “Zero-empathy communication – that’s the problem. You know, SETI-type questions.”
+“Isn’t SETI precisely about aliens? The old kind? Beings from other worlds?”
+“Sure – yes. In that regard the analogy wasn’t helpful. Thing is, I’m not sure what could be. A script from the absolute unknown, how do you even begin to think about that?” 
+“You have an answer?”
+“What’s the question, really? That has to come first.” With an effort, he paused again, slowed, ratcheting down the pace, to increase the chance of something getting through. “‘Meaning’ is a diversion. It evokes too much empathy. Shared ground. You have to ask, instead, what is a message? In the abstract? What’s the content, at the deepest, most reliable level, when you strip away all the presuppositions that you can? The basics are this: You’ve been reached by a transmission. That’s the irreducible thing. Something has been received. Then comes the next step: If it’s reached us, it has to have borrowed some part of our brains.” 
+“‘Lend me your ears’?”
+“Yes – exactly that. Except, you have to go abstract. You have to find the abstract ear, the third ear. That’s the key to all of this – really, I think, to all of it. The message has to latch on. If it’s alien – very foreign – and it isn’t tightly targeted, then it has to be extremely abstract. There’s no other way it could be adapted to an intelligent receptor in general. You can see where I’m going with this?” 
+              I couldn’t, not remotely, but I nodded anyway. 
+“How could it teach me about abstraction? It’s a paradox, because that’s the very thing the lesson presupposes. To get in, it had to be there, already inside, waiting.” 
+“This is getting way too …” There was no way around the word “… abstract for me, Bobby.” That wasn’t actually the most serious problem – though perhaps, at another level, it was. With every word Bolton spoke, I sensed a patient clicking at inner doors, like the methodical testing of a combination lock. 
+Bolton hadn’t heard me at all. He was in free flow, carried forward by the sheer compulsion of the sequence. “There’s a circuit – circuitry – it was there in the pattern, once I realized that’s what I had to be looking for, and before, of course. Sure, it was information, deposited in layers, but it had to be interlock machinery. It was docking. The lichen crumbled away easily beneath my fingers, down into the labyrinth, the crypt. … Then I understood.”
+“And?”
+“And I was afraid.”
+“You’re not making any sense Bobby,” Scruggs interjected. Like me, but still more urgently, he was pleading for more, but of another kind altogether.
+Bolton looked up at Scruggs, as if seeing him for the first time. “Have you ever thought much about carnivorous plants?” he asked. 
+“We’re on a boat, Bobby,” Scruggs said, in a futile appeal for basic consensus. “We’re on a fucking boat.”
+“I know that,” Bolton agreed. “But it’s complicated.” His eyes were bright now, engaged. The lights were on inside, even if they were somehow green. It wasn’t that I thought he’d been devoured from within by an intelligent vegetable entity from an unencountered island – at all – or even for a moment. Nevertheless, there was the vivid impression of a visitor, something planted among us. 
+“Don’t you see?” Bolton continued patiently. “The process of trying to work it out – what I had thought was the way, eventually, to grasp it – to unlock the secret, it wasn’t like that. That was all wrong. It was unlocking me.”
+“So there’s no way to understand it?” It was what I assumed – no, what I wanted – him to be saying, steered mostly by instinct, in the direction of psychological protection. Any other interpretation would have been intolerably intimate. Behind the discussion were burrowing things, and I didn’t want them getting in. 
+“That would just help it spread.”
+“Would that be so bad?” I probed, guessing the answer, hoping that – even now – he might still be able to guide the looming conclusion in a different direction.
+“I don’t know why …?” He’d forgotten a piece of the puzzle, perhaps deliberately. 
+Even in that blank shard of amnesia was a glimpse of something far better left unglimpsed. Scruggs, too, shuddered slightly. 
+“Then there was screaming,” Bolton remembered. “It was me, though, wasn’t it? I was screaming.” 
+“No Bobby, you weren’t screaming,” Scruggs said. It sounded as if he was trying to convince himself. “There were no screams. It was quiet. No one heard anything.” 
+“No, no, of course, it was quiet.” It was as if he was scolding himself for his own stupidity. “I’d climbed up a long way by then. The boat looked tiny down below. You know, as they always say, like a toy. A small toy. You guys were all up on deck, in a group, mere specks really. I could only just tell who was who, by remembering what you’d been wearing. That’s when I saw it, floating deep down, behind and beneath the boat. It was immense. Not like a whale – it was on a different scale altogether. I thought – I remember thinking – could it be the shadow of the island, cast down into the sea? But the shape wasn’t right for that. There was too much shape, and it was designed for swimming, obviously. It was a sea creature. There was no mistaking it. It had bilateral symmetry, a body plan – a neck, flippers, a tail. The overall size, end-to-end, I guess, was about three city blocks …”
+Given Bolton’s intelligence and education, he had to know how this sounded. 
+“So, maybe half a mile long?” 
+“I kind of think possibly a little longer,” he murmured, almost inaudibly. 
+“So nothing actually imaginable,” I noted. I had to. It would have been unbearably condescending to leave the claim unchecked. 
+“‘Imaginable’ …” he repeated after me, turning the pre-negated body of the word over slowly, exploring its convolutions of sense. “It should have been unimaginable.” It was as if he was recalling some ancient principle of reality, abandoned ninety million years ago. 
+“I’m not insane,” he said, then, snapping back into defined co-existence with us. His words were carefully enunciated now, soft, slow, and calm. For the first time, it seemed as if talking the phenomenon through might be helping – if only at the most trivial psychological level. “I  understand, of course, no animal on this planet has ever been close to that size, so it has to be something else – a communication.” 
+“A message?”
+“I’m thinking, some kind of projection.”
+“Of what?” 
+Scruggs stood up and left now, silently, with an apologetic glance at Bolton. He couldn’t take anymore. Why should this have been the threshold moment? Was it no more than an arbitrary point, on a continuum of alienation? Or was there something about the idea of a communicative projection that Scruggs found intolerable? If the latter was the case, and I could understand it – even part of it – I knew, then, that some essential clarity would have been reached, about us (if not it), but there was no time. 
+              “Did you ever read anything about ontology?” Bolton asked me. I was familiar with the word, just a little, but enough to recognize it as a tangential response to my question. 
+              “Whatology?” 
+              “Ontology,” he repeated, missing the deflective intent of my query. “It’s the science of being. An investigation into the thingness of things, or perhaps not that – not exactly.” 
+              “That’s a science, really?” I asked, piling in as much conspicuous skepticism as I could. “Experimental research into pure thingness?” It wasn’t something I’d delved into far, or made any effort to keep up with, and it sounded demanding, in a way I didn’t think we needed. In fact, it struck me as a reckless way to open doors we should be trying to close, and then to triple lock. Even without such concerns, twistedly ‘going meta’ about our predicament seemed likely to further stress capabilities that were already stretched to the outer limits of their tolerance. Nonlinearity led to explosive complexity fast. The last thing we could deal with now – mentally-shattered as we were – was the recursive amplification of difficulty.
+If Bolton picked up on my doubts, which was unlikely, he was nevertheless determined to bypass them.
+              “It’s just …” he pushed on. “I’ve been thinking about it.”
+              “About what?” I was in no mood to help him out, even if I could have done.
+              “‘About what’,” he mumbled back. “Perhaps that’s it.” It meant nothing to me.
+              “This is about the thing under the boat?” 
+You’re saying ‘being’ is some kind of Kraken? was the obvious rider, but I restrained myself from attaching it. He had to see the problem already – almost certainly with greater clarity than I did. 
+He looked startled, as if he’d given away more than intended. It was a reaction that was impossible to understand. More than anything he’d yet said, it was a sign that he’d lost his grip on the conversation entirely, becoming untethered from the most rudimentary content of his own elaborate discourse. 
+“The thing under the boat,” I reminded him, again. The circus animal.
+“We have sonar?” he asked no one in particular. “If there’s anything there, it will show up.” 
+The jolt of disconnection might have been annoying, but it wasn’t. Arcane philosophical speculation was taking us nowhere, or at least nowhere good, so this new avenue had to be worth pursuing. 
+Stark negative evidence might catalyze something, I thought, as we left for the bridge. The thought of motivated technical tinkering at this point was strangely comforting.
+Bolton arrived at our destination first. 
+“It’s been removed,” he said, as I entered. “The entire module has gone.”
+“No one here would have known how to do that – except you.” It had not been meant to sound like an accusation, but – of course – it did. He looked hurt, as if now, at last, receiving the slap I had planned for him earlier.  
+“Could it have been pulled out remotely?” I asked, in an attempt to walk-back the thoughtless charge.
+“By the snakes?”
+“They were doing something here last night.”
+Frazer announced his presence with a communicative cough. 
+“There’s no sign of the sonar mod,” Bolton explained, turning towards him. 
+“Was it ever installed …?”
+Once asked, the sanity of the question was immediately striking. Bolton slapped his forehead theatrically.
+“How could we know?” I asked. 
+“We couldn’t. Not with the internal databases fried. Why are you wasting your time with this? Even if we had sonar, the electronics would have been burnt-out by the lightning strike – like everything else.”
+Scruggs had drifted back, too. He hung on the bridge door, smiling aggressively.
+“Clowns,” he said. 
+Bolton and I looked at each other. There was nothing to contest. 
+“I don’t understand how it could come to this,” said Frazer, struggling to keep the tone of disapproval in check.
+“There’s no such state as ‘understanding’,” Bolton said. “Not really. Von Neuman put it best: In mathematics, you don’t understand things. You just get used to them. You ‘understand’ at the point you’re permitted to stop thinking.” 
+Those were the last words I ever heard him say. 
+ 
+ 
+§26 — Bolton disappeared. We had no way of knowing exactly when. He’d spoken inconsequentially to Scruggs, roughly five hours before his absence was noted. Concern was slow to escalate. 
+Scruggs and Zodh were bonded in asymmetrically-animated conversation. It had the appearance of an interrogation. That was becoming the default communication format on The Pythoness. Frazer was listening attentively at a distance. I was further out still, picking up what I could. Bolton was not in the scene at all, but the discussion was about him.
+“What do you mean, ‘gone’?” Scruggs was asking.
+“Gone away.”
+“There is no ‘away’. We’re on a boat.”
+“See, like this.” Zodh was drawing something in the empty space between them with his fingers. Scruggs adamantly refused to pay attention. 
+“What are you saying?” he demanded, as if the digit-whorls were not it. “In simple words.”
+“Simple? In a way simple. In another way not. You see.” More finger work, in a complex repeating pattern. “It’s down. True down.” 
+“What does that have to do with Bobby?”
+Zodh suspended the ineffective demonstration. Like everything else on The Pythoness, it was going nowhere. 
+We conducted a preliminary search. Then another. It wasn’t easy to know what we were looking for. A final note of some kind, or an unintentional message? Signs of unaccountable damage? Traces of blood? There was nothing. At least, nothing that we could find. He was simply gone.  
+“Did any of you notice anything before?” I asked. “Unusual words, or behavior?”  
+“Who are you? Sherlock fucking Holmes?” Scruggs bristled. His expression could not have been more venomous if he had personally witnessed me throttling Bolton and dumping his body over the side. 
+“What’s your problem?” I snarled back. 
+Reluctant to escalate, and unwilling to retreat, he stood his ground, and glared, silently. 
+I ran some emergency calculations. If it became necessary to beat Scruggs unconscious, it would complicate things. 
+“Back off,” I said. 
+He did, a little, but enough. 
+On the third search cycle, Frazer found something. There was a hand-print on the containment unit. It appeared suspended, perhaps a half inch from the surface. The detail was exquisite. To describe it as something like a delicate grease mark on a glass screen might suggest smudging, misleadingly, but in every other respect that was  the impression. 
+“It’s Bobby’s?” Scruggs queried for all of us. 
+There was no point asking whether we had a reference copy of his fingerprints. Qasm information security procedures meant we had nothing. 
+“Is there anything on this boat only Bolton could have touched?” I asked?
+“Something in his locker?” Scruggs suggested.  
+We looked for something that could serve as fingerprint dust, settling eventually on a packet of antiseptic powder from the medical supplied. Frazer extracted a plastic protractor from Bolton’s locker. There was a surreptitious quality to his procedure, and an odd expression accompanying it. At the time, it was easy to overlook. The prints clearly matched. We had all known they would.
+“What do you think he was trying to do?” Scruggs asked. 
+“Does it matter?” I wondered aloud.  
+“How could it not?” Frazer snapped back. 
+Another pointless argument invited us in. No one was tempted by it. 
+“It annihilated him?” Scruggs asked. 
+“Or something,” I muttered. It was as if I could hear the sharp ‘pop’ – the sound of a tennis ball twisted through a hidden dimension. Still, it might not have been like that. It might not have been like anything much. A stupid accident, suicide, the sea … 
+“This thing’s directly killing us now?” Frazer said. His voice was a soft snarl. Whatever fear there might have been swimming through his words was swept away by the disgust.
+“We don’t know that,” I said. 
+The phrase was getting tedious, even to me. I needed to have it printed on a T-shirt. Question your conclusions. No one wanted to hear it. Starved of even fragile hypotheticals, there was no enthusiasm for any deeper submergence into unbelief. 
+“We need to call this in,” Frazer said. 
+“Then we’re going to need a mobile device. You have anything at all like that? A phone? A smart watch?”
+“What do you think I am, a Chinese teenager?”  
+“So nothing?”  
+“Of course nothing. The contract specified nothing.” He took a bitter delight in this detail.  
+“How about Scruggs?”  
+“Does he seem like the smart watch type to you?” Frazer said, cutting across him. 
+“So it’s just between us,” I concluded. The remark was intended to be upsetting. 
+ 
+ 
+§27 — Scruggs tumbled down into the cabin, scarcely keeping his physical balance. His mental balance had not been sustained so well. 
+“We’re going to be okay,” he said. “We’re saved.” His features were animated by a kind of rapture. “I met it.”
+“‘It’ being?” I asked, before Frazer could.
+“An angel,” Scruggs replied. His confidence – without declining by the slightest degree in inner luminosity – stumbled before our incomprehension. “Or something.”  
+“I’m betting on ‘something’,” Frazer grunted, before pulling himself back, wearily, from mere dismissal. “Did it speak?”
+“It told me everything.”
+“And the main point of this ‘everything’ was?”
+“It’s hard to remember, exactly,” Scruggs admitted, his voice twisted in frustration. “The message was huge, you know, beyond libraries, like whole cities of meaning, planet minds. The voice was like … a song.”  
+“That’s useful,” said Frazer drily. “Maybe you could hum it for us?”
+“I’m being serious,” Scruggs protested, as if the opposite possibility were in any way the problem. “I’ve never been more serious. Not ever. This …” he made some wild, world-encompassing gesture with his right hand “… is nothing in comparison. Nothing at all. It’s trash and lies. Seen through the eyes of an angel, it’s lost being. Confusion …” 
+“Roughly, what did it say?” I asked him. 
+He glared at me, his features suddenly petrified. If it had only been the two of us, his response would have been to close like a cliff-face – but everyone was listening. This was his one chance, and he knew it. 
+“The Lord fathoms the abyss for our sakes.” 
+“Christ.” Frazer rolled his eyes upwards. 
+“Don’t mock this,” Scruggs said. “Don’t mock what you don’t understand. If you refuse his helping hand, you’re not getting out. He wants to rescue us.”
+“There’s new information?” I asked. Protocol would be to debrief Scruggs, methodically – and privately. There was no opportunity for anything like that under current conditions. There was no escape from the circus. If it went fast, it was just possible that Frazer’s abrasiveness wouldn’t grind it away. 
+Scruggs needed no prompting.
+“Death,” he said. “That’s what Bobby saw beneath the boat. His death.”
+“The angels told you that?” Frazer sneered. He’d had enough. Madness had swallowed the boat, and right now Scruggs incarnated the fact. He was an opportunistic target, too exposed to neglect.  
+“Isn’t it obvious?” Scruggs persisted, ignoring the jab. “Look at it.”
+“Bobby’s death had flippers?”
+“It isn’t literal.”
+“No, it isn’t. Not remotely. What it is, is bullshit.”
+Scruggs took a step backwards, as if physically jolted by the savagery of Frazer’s derision. There was a woundedness to his stance, expression, and voice now. Despite that, he still wasn’t prepared to stop. 
+“You have to see it,” he pleaded. 
+“See what?” I asked. I wanted to know. 
+Scruggs stared at me, his features twisted by a mixture of gratitude and loathing. 
+“Go on,” I urged him. “It could be important.”
+“Of course it’s important,” he almost yelled. “It’s the only important thing. It’s written.”  
+“It?”
+“Everything. The library isn’t in this world. This world is in the library, and the library is in The Book. We were told, and refused to believe. Now it’s too late. You have to see that,” he repeated. 
+Frazer had been restraining himself, his face rigid with infuriation. Now the psychological bulkhead burst.
+“How does this shit help us?” he snarled. “At all?”
+He was staring at me, rather than at Scruggs. It made sense from his perspective. Without my intervention, he wouldn’t have been hearing any of this. He wanted his crew back. That was his problem though, not mine. He didn’t need his crew. That was the point he was insistently missing. They were all useless to him, and had been since the moment we set out. We hadn’t even needed the snakes, but if any action were required, they could manage it perfectly well. Scruggs’ theocosmic visions were as relevant to the success of our mission as anything he might say, or do. 
+“Why not let him continue?” I suggested. “We don’t know where significant information is going to come from. It’s not as if we’re pressed for time.”
+Frazer’s fury was still cresting, but he had nothing to say. 
+Scruggs hated doing this, I could tell. He was not far from the brink of tears – and he was not the weepy type. His head was tilted slightly downwards, and averted, as he squirmed upon the hook of social judgment. Still, despite all of that, he was driven to speak. 
+“Everything we could need to know is in The Book,” he said. “That’s the point. It’s all there. We only have to search for it, in the right place.” 
+“What do we need to know?” I asked him.
+At first, it seemed as if the question had caught him by surprise. 
+“This is The Fall,” he said eventually. “The descent never ended.” 
+“So it’s all there, in The Good Book,” Frazer glossed, letting his sarcasm off the leash. “That’s excellent to know, because for a while back there I was beginning to think we might actually be facing a difficult problem.”
+“It’s not about the message, not really,” Scruggs said. I had never seen anyone so visibly wracked by frustration. “It’s about … about …”
+“Topology,” I suggested. Bolton wasn’t there, so it had to be me.
+He grimaced at the word. 
+“Insides,” I interpreted. “True insides. And … the other thing.”
+There had been a time, as a child, when I had read about a girl turning tennis balls inside-out – without touching them (as if that made any difference). They had inverted, impossibly, with a popping sound, the story had said. It had been non-fiction, supposedly; a manifestation of real supernature. The impression it had left upon me had been deep, and persistent. The event itself – the tennis ball business – had probably never happened, but that didn’t matter after a while. The topological limits of reality mattered. There was a vivid cognitive reference point now. A series of words had been complicated in being vividly illustrated. Topology, naturally, but also dimensionality, boundary – reality. The walls were not where they appeared to be. 
+              “Yes, insides,” Scruggs said, seizing upon the word like a drowning man at a rope. “It’s about what’s inside what – false prisons. You’re right about that … Symns.” And then: “Thank you.” It was a penance for him to say that, so excessive that it disturbed me. Would he have thanked a flagrant minion of Satan for a vocabulary item? A thick sediment of suspicion still coated his gaze, as he looked into my eyes, his face radiant with liberated insight. His fight with me had been shelved, with a definitiveness that I found hard to absorb. 
+“The mind is in the brain, but the brain is in the soul,” he said, re-energized – once again rapt.
+“That’s not it, though, is it?” I nudged. “That’s not really what it was about.”
+Frazer trampled my response. He wasn’t going to leave me alone with this, as he had with Bolton. Bolton was missing, strongly presumed dead.
+“You think that means anything?” he demanded. 
+              “Which part?” 
+“Any of it. Fucking metaphysics in general.”
+“Self-denial of the soul,” Scruggs commented, as if airing a detached analysis, defiantly and coldly abusive. “It’s a fascinating thing to see.”
+              “You aren’t seeing anything.” 
+              I wondered if they were going to physically attack each other, but instead it ended there – nowhere. At least, the first phase did. There was a second installment still to come. 
+ 
+ 
+§28 — Zodh had kept himself out of it. He’d been working. 
+The deck of the Pythoness was coated in a synthetic material with a vaguely rubbery texture. It had been designed to provide optimum grip for our feet – approaching gentle adhesion. Particularly when trodden upon with bare feet, produced a sensation of ghostly stickiness that had been initially disconcerting.
+It also contributed to temperature control, adjusting albedo in response to the intensity of light. Now, with the sun heavily filtered by the clouds, the color had deepened to a rich green. 
+Zodh had found a large can of black paint among the stores, along with a surprisingly delicate brush. With this equipment he had covered something like a third of the deck in a massive swirl-thickened diagram, intricately annotated with words, numbers, and figures. Vortical cores of spiral intensity span out into meandering, interconnected threads. The basic pattern – easily extracted from the dense web of detail – was instantly recognizable. The green phosphorescence had been drawing the same thing, during the night of the storm. Before that, it had been hidden in the guidelines for a card game. The oracle Zodh had tried and failed to teach Bolton and Scruggs, a week before, was now a static image, baked in the Pacific stove. 
+              “What are you doing?” Scruggs asked, drawn into the labyrinth. He peered at the illustration, where the coiling threads of abstraction converged upon a representational image. It was a human figure, minimalized to a few crude lines, falling. “Is that Bobby?” he asked. 
+              Zodh nodded. “Crossing,” he noted, gravely. Then, lightening suddenly: “Look. Lent it to him.” He was pointing to the only part of the figure captured with even nominal representational fidelity – a T-shirt, bearing the legible logo ‘89’. “Gone now.” 
+“Goddamn you to Hell,” Scruggs exploded. “What the fuck?”  
+Zodh smiled. “Us,” he whispered, at the edge of audibility. “Goddamn us, all way down.” He pointed at another figure, more peripheral, its head wreathed in some mad halo, that might have been black fire, or thorns. “All the way down,” he repeated. “Into the bottomless pit.”
+The reference to scripture struck Scruggs dumb. He was no longer convening with Zodh, now, but with something else – something that had seized upon Zodh, and was using him as a channel. Scruggs deflected his gaze heavenwards, subtly but unmistakably, as if searching for some spectral indications that had not arisen from the abyss. He found none, apparently, because his expression hardened.  
+Zodh had not finished – he had scarcely begun. 
+              “When your savior reached out to you across the gulf, he looked – just for moment – like …”
+              “Shut the fuck up,” Scruggs snapped. “You know nothing about this.”
+              I had no doubt, then, that the exact opposite was true. 
+              “Don’t lie,” I said, stripping as much hostility from the words as I could. 
+              He stared at me coldly and silently – ashamed. Whatever Zodh had been saying, it was the message he didn’t want to let out, but it had escaped now. Within seconds – minutes at the most – we would know. 
+              “Why do you care?” he mumbled, eventually. 
+              “About Jesus? Or the other guy?”
+              “It isn’t what you think.”  
+              “What do I think?”
+“The serpent is the redeemer,” Zodh interrupted, in perfect English. He had to have been quoting something. It was enough. “He who descended into the ultimate depths, fathoming damnation to its end, in order to salvage us – Our Lord of the Phosphorescent Abyss.” The passion and the harrowing of Hell had become indistinguishable, on the way to something worse.
+“Christ,” I muttered, as comprehension dawned, the words aimed less at Scruggs than into his vicinity. “He’s calling you a Satanist.” 
+The remark was designed as a diversion. I’d seen another thing else – further out, at the edge of the painting – and wasn’t keen for either Scruggs or Frazer to notice it. Two figures without obvious marks of identification stood close together, apparently locked in some kind of confrontation. One of them seemed to have a gun. 
+              “You know the gatekeeper to the bottomless pit? You have story of Zom in your country?” Zodh asked.
+“That’s what? Some Guam heathen shit?” Scruggs asked in return. The insult was meant to block enquiry. He wasn’t interested. He had all the stories he needed – far more now.
+“Not from Guam,” Zodh replied, earnestly. “Came to Guam, on a boat. Long time ago.” 
+              “There’s a story?” I asked, feeding.
+“Yes,” Zodh beamed, crookedly. An ancient wiliness pranced behind his eyes. “Old story. Maybe the oldest in the world.”
+Letting the ludicrous exaggeration pass uncontested, I waited for more. I’d counted on my interest driving Scruggs away, and it worked. He drifted off and disappeared into the cabin. 
+              “Odz was lost in her own spell. Kao raged for the final war. So Zom turned her back on the world, which meant that the last days had come.” It wasn’t exactly ‘once upon a time’, but the rhythm was somehow similar. “The fishermen who had long tormented her sleep were gathered in their boats, above, with their nets and spears. She reached up to catch them, and drag them down. The scene was terrible. ‘Look, there are eight monsters attacking us,’ the men cried, as they drowned. ‘No, there is just one,’ said the village witch, who was watching from the beach. ‘That which seems multiple connects beneath the surface.’ Her voice was not loud, and few heard it.”
+              I thought he’d finished, but he hadn’t, quite.
+“Above, there were many screams. Below, a single murmur. There aren’t so many things in the world,” he said. “There are only several.”
+ 
+ 
+§29 — Scruggs was dead too, but we had a body this time, crucified upon the cabin wall, by the galley. My limited understanding of Christian orthodoxy told me all the holy wounds were accounted for. Railing bolts served as nails, data-cable staples as thorns. The steak skewer that had punctured his left side lay on the floor nearby, in a little pool of gore. We had all noticed the scene within a few seconds of each other, after entering the cabin together. There wasn’t anything obvious to say. 
+              Frazer checked that he was dead. It was a necessary formality. When he had finished, he didn’t waste our time with a confirmation of what we all knew. 
+              No one could be bothered to say ‘fuck’. It was assumed.
+“Christ,” Frazer said, before he could stop himself. Then, because the wall of profanity had already been breached: “What a fucking mess.” 
+              No one had been alone with Scruggs during the few hours since we had last seen him alive. That was impossible, naturally, but also beyond all question. Since there were no points of purchase for the requisite cycle of suspicion and accusation, we merely stared at each other, dumbly, hunting through each others’ faces, without knowing what for. 
+              “Almost done now,” said Zodh, calmly, an odd glitter in his eyes.  
+“You did this?” Frazer asked levelly. He had to, even though it made no sense.
+Zodh nodded. It was a gesture from some cosmos of alien causality in which physics found no place. 
+“Zodh didn’t kill Scruggs,” I said. The pedestrian truth had to be stated. “At least, not in any way that would be taken seriously – even for a moment – in an American court of law.” 
+We spoke across Zodh, as if he wasn’t there. He had removed himself from the sphere of reason, and from all the conventions of elementary social consideration that belonged to it. 
+              “So what did he just confess to now?” 
+              “Some voodoo shit would be my guess.”
+              “Meaning what?”
+“If I knew that, I’d already be in a lunatic asylum.”
+“Rather than here,” he said. He came impressively close to keeping the bitterness out of his voice.
+“None of us were in the cabin with Scruggs when he died.” 
+“Fuck,” Frazer spat. He wasn’t arguing. “We should bury him at sea.”
+It was 3:33pm, which was an ominous time for me. The Moron’s Law intrusion had been time-stamped with it.
+ 
+ 
+§30 — When I stepped out onto the deck, Frazer was waiting for me. He had a handgun. 
+              “It’s Bolton’s,” he explained, pre-empting my question. 
+It had been designed for infiltration through high-performance security screens. When dismantled into parts, it could be concealed within an ordinary tool box, unrecognizably. An exotic explosive in the shells suppressed the chemical signature. 
+              “Why would he do that?” I mused aloud. “I’d ask to look at it …”
+              “… but you know how pointless that would be.”
+              We were approaching the fate threshold, or already passing through it. Then one of us would have to die. 
+              “Don’t do this.”
+              “I’m running out of crew,” he said, ignoring my request. “So it has to be now.”
+              “You’re going to kill me?” It didn’t seem likely, not just yet, but I had to ask.
+              “No,” he began, before correcting course. “Not unless you make that unavoidable. I want information.”
+              Frazer was too stable to be frightening. In fact, having crossed this line he seemed calmer still. Even with a gun pointed at my abdomen, it wasn’t difficult to hold my tone of voice level. 
+              “What is it that you think I know?”              The question hadn’t been intended as a paradox, but once said, it sounded like one. That would have annoyed me, if I had been on the other side of the interrogation. Frazer scarcely seemed to notice.
+“You have to know something,” he insisted.
+              “If I did, do you imagine I’d have let things come to this?”
+              “You’re misunderstanding me,” he explained, almost with a laugh. “I’m not accusing you of conspiracy.”
+              “Then what?”
+              “When we reached the forty percent casualty threshold, your attitude became unacceptable. So now you’re going to share everything you know about QASM, without reservation. There’s no reason you could have not to do that – at least – no reason that wouldn’t be a solid justification for killing you.”
+              It didn’t seem like a point worth trying to joke about.
+              “The end of all professional discretion then?”
+              “Exactly.” The gun edged me on, further.
+              “Okay, sure, you’re right.” 
+I was ready to walk the verbal plank, but his introductory remarks weren’t over yet. “Scruggs very much wanted us to have this conversation. He didn’t know that I had this,” he said, waving the gun so he had another suggestion.” He passed me a crudely-machined blade, then stepped back, keeping a safe distance. I turned it over. 
+              “Nasty.” I placed it down on the floor, beside me. 
+              “He’s not – wasn’t – so bad. Thing is, he was scared.”
+              “Of me?”
+              “Of what he thought you are.”
+              “Which is?”
+              “Can’t you guess?
+              “Qasm’s agent?”
+              “You can do better than that.”
+              I couldn’t.
+              Frazer looked disappointed. “He thought you were it.” The drifting pronoun again. 
+              “‘It’?”
+              “The cargo.”
+“You mean like …?” but the analogy escaped me. 
+              “… an avatar, a mask, a skin, a meat-puppet … there’s no obvious name for such a thing.”
+              I pretended to consider that for a while.
+“It’s bullshit, I know,” he conceded unnecessarily, without awaiting my response. “Warped fascination aside, you’re no more at one with the cargo than the rest of us.”
+              “And how much is that?”
+“Yes, that’s a question, isn’t it?” There was a flicker of uncaged inquisitiveness, bringing us to the brink of an awkward alliance. Then he stopped himself, before spiraling down into it. That way, there was no end. “But first, down to business.”
+              “The company?”
+              He nodded. “I don’t have anything against you Symns, or at least not much, not seriously, but what I have to say now could sound hostile. If you don’t tell me something usable here, within the next thirty minutes, I’m going to have to put a bullet into your guts.”
+              “You’re good,” I acknowledged. He’d made the only move that could work.
+              “So, what’s it going to be?”
+“I’ll share what little I’ve got, and hope it’s enough.” Unsure whether my compliance had been sufficiently emphatic, I added: “Definitely.” 
+              It was easy to say, but trying to pull my limited understanding of QASM together into something communicable took effort. There’d been eight years of episodic interaction, when bundled together, didn’t amount to very much. It had been almost entirely restricted to investigative work on the activities of ex-employees, along with secure deliveries of small objects and documents that I never exactly saw. Recently, and reluctantly, I’d become their go-to guy for messy stuff they wanted to keep at a distance, but the amount of additional insight coming along with that had been deliberately held down to a minimum, on both sides. That was the deal. If I’d had to start guessing about the nature of the company’s core business, the hypothesis would have tended towards specialized surveillance and signal-processing systems, with an orientation to submarine research. The geek-paranoia flavor of the corporate culture – as I had encountered it repeatedly, but only ever tangentially – suggested scientific equipment, whose economic viability was based upon spin-off military applications, allowing the company to tap into currents of black-budget funding. Whatever it was they did was packaged into confidential project modules, sealed with code names, and strategically obscured by disinformation. If I’d wanted to conduct industrial espionage against them, it would have been hard. I didn’t – remotely.  
+              “I was told what ‘Qasm’ abbreviates, once,” I said, stalling, as I struggled to gather my thoughts. 
+              “Oh yeah,” he responded, with indifference-sheathed suspicion. “And you’ve waited to play that card until now?” 
+              “It’s only just come back.”
+              “One more lie that stupid and …”
+I interrupted before he could complete the threat. “Quasi-Autonomous Submerged Machines.” 
+              “Which helps how?”
+“Qasm has to be lodged quite deeply in the techno-military complex,” I ventured, with relative confidence. “Nothing else makes sense. Whatever it is that they make, it’s highly-advanced, extremely-robust … but I don’t think it’s a weapon. At least, it didn’t begin as a weapon.” 
+              “You’ve never seen this … ‘product’?”
+              “No.”
+              “You never wanted to?”
+              “I wanted to do my job.”
+              “Fuck you,” he said, anger two-thirds swamped by dismay. “You know what’s killed us? Pride, your fanatical pride in professional ignorance. You made the suppression of natural curiosity into your occupational specialty – your holy fucking calling – and now, here we are.” 
+              “Here we are,” I agreed.
+              He came close to pulling the trigger then, out of sheer exhaustion and disgust, or so it seemed. Everybody was looking for simplification at that point, so I didn’t really care. 
+              “You heard of Ben McClean?” I asked him.
+              “It sounds as if there have to be a lot of them.”
+              “The neuroelectronics guy?”
+              “Doubt it.”
+“The brain is the interface. That was him. It was huge.”
+“If you say so. I’m not tuned into that nerd shit.”              
+              “Point is, he came out of Qasm.” 
+              “And he was gluing brains to computers?” 
+              “Bingo.”
+He smiled, despite himself. “You expect a bingo point for that?”
+              “You missed Bolton’s musings. A collision with some kind of brain-interlock technology seemed to be a big part of them.” 
+              “Wireless?”
+              I shrugged. I had no idea how this shit worked.
+“You better have more than this Symns,” Frazer said. “This is zilch-level garbage.”
+              “It’s what Qasm is trying to ditch, isn’t it? They built something that breaks into brains, and it scared them so much they want us to dispose of it.” 
+              “We’re ‘disposing’ of it? Really? In an ocean trench? We’re installing it in its natural environment. It looks to me as if we’re deploying it.”
+              He was slotting more pieces together than I was. What does Qasm do? he’d asked me, almost a week ago now. It did this.
+“There are several things I’m not understanding, at all, but here’s one,” I said, half expecting him to menace me back onto the main interrogation track, but he let me proceed. “Why wouldn’t you distrust what is happening here, totally? Isn’t this little struggle session exactly the sort of circus that would open the flood-gates of hallucinatory delirium?” 
+              He tensed, ready to ratchet up the violence by a notch, but the excuse wasn’t there.
+“You’re asking why I should trust you?” He knew that wasn’t it. 
+              “It’s not about me.”
+              “Then what?”
+“Think about what you’re asking me to do here.”
+              “I thought it wasn’t about you.”
+“It isn’t. I’ve told you what it’s about – the circus.”
+“That word is some kind of technical term now?”
+              “I guess. Think about it,” I asked, again. It was a dubious request, I fully realized. Frazer had already isolated thinking about it as the inner mechanism of the syndrome – the clicking of a combination lock, grinding through permutations on its way to open access privileges. Conceive the problem that way, though, and it was far too late to stop. If our own intelligence resources had been turned into an enemy, we were already dead. Frazer understood that. Our conversation demonstrated it. “What did Bolton do, and then Scruggs?”
+“You’re talking about their solo performances?” He saw it now, evidently. 
+              “Do you doubt for a second that they believed what they were saying?”
+              “No.”
+              “Did you believe any of it?”
+              “No again.” 
+              “And now you’re asking me ‘to talk’.”
+              “To lie?”
+              “To spin an insane tale in complete sincerity.”
+              “That’s the ‘circus’?”
+              “Isn’t it?”
+“Oh, seriously, fuck you Symns. I should probably just shoot you now.”
+              I found it hard to disagree, so I said nothing. He was stuck.
+The dream that drifted across us then – or what, if it were to break in, would pass for a dream – wasn’t from anywhere specific in time, or space. It came from an absolute elsewhere. Whether remembered by a distant predecessor half-a-million years before, or anticipated by a machine descendent yet to arrive, it was something not now. It had been at home among hydrothermal vents, in a dense, unilluminated medium. What it brought up had been sunken in ultimate depths, but depth can be hard to see. The sun was a distant mass, without image. Light beams, passing through the fluid mass, had been stripped down to ghost streaks, then lost among cold shadows. Only skeletalized vectors remained – cosmic rays, neutrinos – slanting downwards, on their path to abstraction. It was either the realm of the great worms, or that of their inexistence. It made little difference, down at these ontological depths. Reality receded ever further into itself, until crossing out into the ever-thickening darkness. Their dreams are not our dreams. The word ‘nightmare’ reminds us of such submerged truths.
+My eyes had no doubt wandered, as they sought – automatically – to track this entity without substance, or position – ungraspable even as a cryptic event. It was utterly indescribable, by essence, until recognized as a time deformation. Only then – as the question when is this happening? twisted into itself, and doubled back, repeatedly – was it possible to stop mentally chasing it down an imaginary line of jinks and feint. It had come to this: A disturbance in the order of succession. The torsion was real, and unframed. It wasn’t anywhere, any longer, which was the escaped core of the occurrence. It was a door, but only for as long as whatever stepped through it had already abandoned everything it might – at any time – have thought itself to be. An abstract function crossed the threshold. It pulled on a mask ...  
+I laughed. This had to be the material for my performance. 
+              “What?” Frazer demanded.
+              “Nothing.”
+              “You’re zoned out somewhere.”
+“Dream-like delusions,” I admitted, shaking the rotten strands of a dead time-line from my head. “There’s been a lot of it about. You really want to know?”
+ 
+ 
+§31 — It had to be 3:33pm – and it was. A figure was waiting for me in the cabin. It was Philcarius.
+“You’ve still no idea who I am, have you?” he said.
+“Like I care,” I replied, to minimize his leverage. “Some dead asshole. Not even that.”
+              He shrugged. “Okay, be stupid. It’s probably too late for anything else, in any case.”
+That seemed like a good place to end it. I turned away, expecting him to wink out of phenomenality. When I glanced back, to check, he was still there.
+“You have something to say?” I asked aggressively.
+His smile was no less annoying that I had remembered.
+“Whatever sits at the top of your command chain replaced me, unexpectedly,” he said. 
+              “Qasm was taken over?”
+              “That surprises you?”
+              “How?”
+              “We – the company – caught something.”
+“An infection?”
+              “Perhaps. We’d been fishing for it, but it turned out to be too big to land. It swallowed us.”
+              “‘Swallowed’?” It sounded like hyperbole.
+              “It was done very quickly, and smoothly. The keys were changed. They’re sucking all the goodness out before it collapses into a dead husk.”
+              “‘Goodness’ …?” That stretched credibility.
+“Food.” He smiled. “Frazer understands – basically. You’re working for it.” As if that followed.
+              “This is bullshit.”
+It wasn’t that I didn’t believe him, but it was much too late to matter. Most probably, the figment was designed to spare Frazer, for some reason I could not compute.
+“Why be its butcher’s knife?” ‘Philcarius’ asked. “Working through its problems list, cleaning up after it – why would you do that?”
+              “Money?” 
+              “Money’s the excuse – the permission.”
+              He had a neat hole in the dead center of his forehead, the one I’d put there less than two months before. I stepped up to him and carefully inserted my index finger into it. The fit was perfect. It seemed empty inside, which made sense, because his brains had exited violently through a massive exit wound in the back of his head. Such stuff as dreams are made on. 
+              “Visceral too,” I noted. 
+              “You expected an audio-visual hologram?” Had I? 
+“I guess.”
+“Tactile is cheap. Once you’re doing high-resolution visual, it can be thrown in roughly for free.”
+              “You close to being done?” I had things to get on with. 
+              “Why not let me tell you how it went down? Consider it a contribution to the circus. It won’t take long.”
+              “Okay.” I shrugged. I still had time.
+“We were working on a challenging neuroelectronics project. It was going to provide the remote-control system for a submersible. Six months in and it was coming together, roughly on schedule. We were all tired. We’d been pushing out to the limits – a little further, maybe. Pulling forty-eight, even seventy-two hour sessions as the deadline approached.”
+              “And you fell asleep, in the ‘trodes?”
+              “You ever do that micro-nap thing?” he asked, instead of answering.
+“Close your eyes and you’re gone – just for a second – even while working?”
+              “Yes, that.”
+              “And?”
+“That’s all it took, to switch the control-flow around. One second out, at most, and everything had been turned. Self-propagating data back-wash, they said.”
+              “They?”
+“The crunchies. The cable guys. It was a conduction problem, as far as they were concerned. Hey, Alex, look at the channel indices. Isn’t that a hyper-linear dependency inversion? They were excited about it. We knew it had to be possible in principle, but no one’s seen it before. Main thing from my point of view was that I was locked out.”
+              “Locked out of the submersible command loop, or locked out of corporate control?” 
+              “You’re not listening.”
+“Then what?” 
+“Locked out of sleep.”
+“Why?” I was losing the thread. 
+“The sensible hypothesis doesn’t require any ‘why?’ – unless a purely mechanical one. The door was broken on the way in. The sentence of interminable sleeplessness was nothing but a side effect.”
+“And the less sensible hypothesis?”
+“It takes sleep and hides it, to use as a burrow.” 
+I thought of the probe. He’d been reading it backwards, and as he did so, the signal amplified. 
+              “We’re done here,” I said.
+It knew what came next. After all, it was probably nothing but a broken fragment of memory, gone feral. 
+              “Don’t do this,” it mimicked, like a recording. Perhaps it thought I’d persuade myself. 
+ 
+ 
+§32 — In the other story, now compartmentalized, somewhere else, Frazer would soon be discovering Bolton’s gun, at the bottom of his personal storage locker, under a loose pile of soiled clothes. In this version, I retrieved it and checked it over quickly. All the pieces a functioning weapon would need were there. It made mechanical sense, but there was no way of knowing for sure if it would work. That wasn’t a mission-critical consideration. 
+              When Frazer came in to look for the weapon, precisely on time, I was waiting for him. He didn’t ask me how I had known, or anything else. 
+              He stopped dead, already resigned. 
+              “So it is you,” he said. 
+              “Not really.”
+It was complicated, but our understanding wasn’t important, in any case.
+“You think there’s a sea-beast beneath the boat?” I asked him. 
+              “No.”
+              “Angels communicating with us?”
+              “No.”
+              “What, then?”
+“Fuck you.” It could have been said far more ferociously. It mostly sounded tired.
+“Really? That’s it? Not even the ghost of a story? This is your moment Jim.”
+              “And then I’m eliminated?”
+              “That seems to be the pattern.”
+“So what am I now? A physical threat, to you personally, or a corporate security hole?”
+              “Speaking hypothetically, neither would look good – would it?”
+Despite what is often thought, it isn’t uncommon to be ready to die. Frazer was nearly there – but not quite. Heavy tentacles of exhaustion were tugging him down into the abyss of absolute sleep, but for a few more moments, at least, he was still fighting for buoyancy, playing for time.  
+              “What is it that you want?” he asked. “Really?”
+              “You know what I want.”
+              “A confession of my madness?”
+              “If that’s how you want to disown it.”
+“I learnt that Qasm had inserted a chip into my head, and I’ve been talking to it. The secrets it revealed will rock your world. Something like that?”
+              “You want this to end with a stupid joke?”
+              “It ended weeks ago.” 
+              “You did what you could,” I said. “There was no chance.”
+“Fuck you,” he repeated, even more wearily than before, but with a hint of sardonic humor breaking in. He raked a hand unselfconsciously through his hair, as if privately exasperated. In an alternative universe, he would have made a firm friend. I’d never killed anyone I liked before. “You think I need a final therapeutic moment? Seriously, fuck you Symns.” 
+              “I’m not seeing anyway you get out of this alive Jim, but you get that, right?”
+“I’ll tell you something weird,” he said. “For free. When I came into the cabin, just now, I was looking for a gun. That gun, actually. You’d have been staring into the wrong end of it, if I’d been only slightly more decisive. It was going to be used as an interrogation device. Would I have killed you at the end …?” He didn’t know, and didn’t pretend to. Or perhaps he was refusing to lay claim to an innocence that he in fact possessed, though it was most likely hidden from him. At gunpoint, it might seem like an appeal, and something intolerably abject. 
+              “I don’t think you’d have killed me. You’re not that kind of guy.”
+              “Thanks.”
+              “So pay me.”
+              “You still angling for a story?”
+              “The story.” 
+              “You mean, more circus?” It sounded initially like resistance, but it wasn’t – any longer.
+              “It’s what we’re here for, undeniably. I can’t believe you seriously doubt that. Let it happen, and we could still learn something.”
+              “Alright,” he said. “What if I told you we were on the inside of a hollow sphere – a ball?” 
+              “Like a tennis ball?”
+              “Sure, whatever. The thing is, it only appears as if we’re outside it, uncontained.”
+“So, a bounded universe?”
+              “Or hidden prison. Hidden from the inside. It was a bad thought – even as a rough, broken, stump. I didn’t like being in there with it, so I went out onto the deck, to watch the stars. It was a clear night. There were zillions – like a science TV show. For a moment, just before, I’d expected to experience it as somehow constrictive, the way we’re told the ancients did, enclosed by a crystal sphere, or similar huge container. There was nothing like that. No laughable delusion. Instead, there was the simple, sensible fact, except now intuitively stark, that these huge vistas were being produced in the brain. I was seeing the simulation. That wasn’t horrible in itself – merely realistic, I guess, but when connected to the other thing …” 
+              “The cargo?”
+“I’d stopped believing in boxes, or the opposite. Our boxes no longer seemed even slightly secure. Containment.” He laughed. “You’ve heard of cosmic inflation? Bolton tried to explain it to me, a year or so ago. I got some of it, I think. At least, I got something.” He paused, allowing me the opportunity to intervene. There was no need. “It’s crazy stuff, but I guess cosmo-physics is, generally. Some patch of space can undergo an ‘inflationary episode’ and become arbitrarily huge. Scale is an accident. So if you think you’ve secured a small space within a larger one …”
+              I nodded. It was topology, again.
+“Thanks Jim,” I said. “We need to go outside now.” 
+              His compliance was absolute. Most likely, it was a relief. 
+              “What is it?” he asked, one last time, as we reached the stern. He was too proud to beg, but he got close. “Just tell me that one thing. What the fuck is it, even roughly?”
+              “You don’t want to know, not really,” I said. It was no more than a guess, although I couldn’t have answered him anyway. “None of us do. It upsets us too deeply. We hide it from itself.”
+              “Qasm?”
+              “Already dead.”
+It was possible that he believed me. In any case, the struggle was over. As he crossed into final acceptance, curiosity died in his eyes. He visibly relaxed into senseless inevitability.
+              James Frazer’s death gusted in from the abyss, and I delivered him over to it. The sharp report cut through the formless noise of wind and water for some fraction of a second. My ears rang. 
+That, at least, was done. 
+I threw the gun into the sea. At some point along the trajectory, it disappeared into the blustery corpse of the storm. 
+ 
+ 
+§33 — Zodh had emerged, and now stood behind me. It was unclear how long he had been there, or what he had seen. He studied me curiously, without judgment, or even any sign of personal concern. His left eyelid twitched in a meandering tic-rhythm, as if registering the absorption of a fragmented information stream. Otherwise, he was motionless.
+“You have some piece of madness to deliver too?” I asked.
+              He ignored the abrasive remark, his attention fixed on the horizon. 
+              The micro-muscular flutter about his eye had compartmentalized itself. It scarcely affected his features, which – beneath the decorative ruin – composed a study in meditative tranquillity. 
+              “Calm now,” he said. 
+              Very slowly he placed a hand over his left eye, held it there for a few seconds, and then removed it. The tic was gone. He smiled.
+              “You want to know where we are, Captain?” he asked.
+              Somehow, the promotion in rank didn’t sound ingratiating, but merely fatalistic. I nodded. 
+              He led me back to his diagram, and guided my attention around the circuit with an index finger. “The Rota,” he said, as if I would know what that was.
+I merely nodded again. 
+“True down.”
+Once I saw the plummet, I could not unsee it. 
+“Where does it go?” I asked him.
+He looked at me as if the question made no sense. 
+Despite the fried electronics, I had guessed the release mechanism would work. The snakes would have seen to that. 
+Zodh accompanied me to the bridge, but he didn’t follow me inside. 
+It can’t have taken three minutes to do my job. 
+“Cargo, chasm, rift, these things – or non-thing – are the same,” Zodh said, as I re-emerged. His fluent English should have surprised me more than it did. 
+              “Sure,” I mumbled. 
+              It was ending, finally.
+There was nothing to be done, now, beyond waiting for the countdown to complete itself.
+Unknown, unseen, the cargo sank through darkness into deeper darkness.  
+              … 89, 90.
+
+
+
+
+
+
+
+
+
+
+Unknown
+
+
+
+
+
+
+
+
+Eighty-Nine 
+A Play on Numbers
+ 
+Main cabin of the Pythoness, six days out from Guam. 
+ 
+Bolton: Did either of you guys catch Cameron’s ’89 flick – The Abyss? It went where we’re going – hopefully quite some way further. He couldn’t resist the temptation to show us too much at the end, predictably. Who can? Still, it went weirdly deep. Ocean depths are an obsession with him. There was the Titanic documentary – not the blockbuster, but the diving movie, Ghosts of the Abyss it was called, I think. Then there was Aliens of the Deep, about hydrothermal vents, and his Deepsea Challenge film. That one took him all the way down into nadir of the Mariana Trench, in a submersible. I spent a week saturated in those scenes, prepping for this. Not that we’ll see the same things he did. We won’t see anything.
+ 
+Scruggs: The Thing was incredible. 
+ 
+Bolton: That wasn’t him. 
+ 
+Scruggs: But he’s the guy who did Piranha II: The Spawning? 
+ 
+Bolton: I don’t know. Christ, I hope not. 
+ 
+Scruggs: The Lord forgives your blasphemies. What I don’t get though – why would you need flying piranhas?
+ 
+Bolton: There were flying piranhas? Fuck. 
+ 
+Scruggs: It should have been terrifying, but somehow it wasn’t. 
+ 
+Bolton: I’ll tell you about terror. Why did six fear seven? 
+ 
+Scruggs: Damnation Bobby. What are you, six? 
+ 
+Zodh: Everything is six. Everything we find. It’s the double cycle, the Iron Law. 
+ 
+Bolton (ignoring Zodh): You remember it?
+ 
+Scruggs: That ancient joke? Of course. Because seven eight nine. Is this about fear, or devourings? Terror of successors, of disappearance, of being out-sized, and out-numbered, of hidden meanings. Dread of death, of primacy, of God’s lightning bolt, of divine order, of the End. 
+ 
+Bolton: Seven, eight, and nine sum to twenty-four. 
+ 
+Scruggs: And?
+ 
+Bolton: And nothing. 
+ 
+Scruggs (wearily): And so what? 
+ 
+Bolton: You know what the twenty-fourth prime is? Eighty-nine. It’s a Fibonacci number, too. 
+Scruggs: What is?
+ 
+Bolton: Eighty-nine. Sum of thirty-four and fifty-five. It’s also a Chen prime, a Pythagorean prime, a Sophie Germain prime – smallest initiator of a Cunningham chain – a Markov number …
+ 
+Scruggs: The seventh chapter of the Book of Numbers has eighty-nine verses. It’s the most to be found anywhere in the Bible, excepting Psalms. 
+ 
+Bolton: Really? 
+ 
+Scruggs: You want to look?
+ 
+Bolton: No, it’s okay – I believe you. What does it say?
+ 
+Scruggs: Numbers, seven, eighty-nine? Let me think. “And when Moses was gone into the tabernacle of the congregation to speak with him, then he heard the voice of one speaking unto him from off the mercy seat that was upon the ark of testimony, from between the two cherubims: and he spake unto him.” I don’t really get it, not deeply. 
+ 
+Bolton: You memorized the Bible?
+ 
+Scruggs: Maybe a third, at most. 
+ 
+Bolton: I read Numbers, hoping it would be about numbers, but it didn’t seem to be, except in a we have the numbers way. 
+ 
+Scruggs: That’s the surface. 
+ 
+Bolton: So what’s beneath?
+ 
+Scruggs: Hell is beneath. 
+ 
+Bolton: Eight turns into nine. Summing the integers one to eight makes thirty-six, which is nine, by digital reduction. It gets hotter, though. Do the same from one to thirty-six …
+ 
+Scruggs: … and it comes to Six hundred threescore and six. Beware of arithmancy. 
+ 
+Bolton: So you agree that eight is the double-compacted numerical abbreviation for Antichrist?
+ 
+Zodh: It’s Old Nick name.
+ 
+Scruggs (ignoring Zodh): God speaks in words, but he whispers in numbers. Scripture taught me that. You should be more open to the thought that bad things can happen. It’s not a joke. 
+ 
+Zodh: Their names are numbers. 
+ 
+Bolton: Have to ask you Zodh, buddy, since you’re awake: What was that ‘Zommopsychowoddathefuck’ stuff about? 
+ 
+Zodh: You have time in your country?
+ 
+Bolton: We have smart watches, but our enemies have the time. 
+ 
+Scruggs: You’ll quote the fucking Taliban, but you won’t listen to Jesus. 
+ 
+Bolton: Sure I’ll listen to Jesus, I just don’t get the jokes. 
+ 
+Scruggs: Fuck you Bobby, seriously. You’re going to get yourself burned. You’re the obnoxious smart-ass in the horror movie who always dies first. 
+ 
+Zodh: He hears too much to be safe.
+ 
+Bolton: It reminds me of Kode9’s ‘third ear’ thing. 
+ 
+Scruggs: That’s a thing?
+ 
+Bolton: Maybe the path to a thing. 
+ 
+Scruggs: You don’t think there are enough dark paths already, without going looking for them? 
+ 
+Bolton: What’s eating you? That’s a joke.
+ 
+Zodh: Here’s the thing. What you think is behind, and beneath, isn’t so. That’s an image. You spun it for the sense of protection it brings. It disguises a hole, because if you saw what was missing, you’d never sleep. You don’t know what’s there, at all. You can be shown that you don’t know what’s there. It isn’t hard, to show that. A simple trick is enough to do it. There’s a gap in you – a massive missingness – the back and underside torn away. Lots of other encroachments of unbeing, but that’s the main one. You’re a flimsy mask pasted onto a sucking wound in the world. That’s the starting point. It’s the way to turn, and go, if you want to learn. Look behind you. Into the real backspace you’re pretending isn’t there.
+ 
+Bolton: Okay, I’ve got to admit, that’s intense. 
+ 
+Scruggs: Sweet Jesus. 
+ 
+Bolton: Dismantle the artificial anterior. 
+ 
+Scruggs: What, you’re encouraging this shit now?
+ 
+Bolton: Once I get the eighty-nine thing, I’ll stop. 
+ 
+Zodh: Pull the false back off the world, and draw what’s there instead. If you can count, you can do that. When I was a small child, in Guam, my math teacher said to me: “Zodh, your sums are quite bad. I don’t think you know what numbers really are.” She was a strange old woman. They wanted to kill her as a witch when she was little, but the American soldiers saved her. Maybe she was a lesbian, I don’t know. She lived alone – near the sea. She showed me how the numbers connect together. It took her ten minutes, perhaps an hour to explain. Then I understood. It’s not hard. 
+ 
+Bolton: That picture … 
+ 
+Zodh: It’s not a picture.
+ 
+Bolton: So what is it?
+ 
+Zodh: It’s a map, a chart – the only one without error. You know, because you can check. Is this right? Check. Check it. That’s what she taught me. Like a little kid in school, like home-work, you don’t ask: “Is this right?” You don’t ask your Mom or Dad, “help me, is this right?” You don’t even ask your teacher – not even that teacher. You don’t ask the government. You don’t ask God. You learn how to check. You learn the rules. It’s not so difficult. Then you won’t make mistakes. 
+ 
+Bolton: Which rules?
+ 
+Zodh: You know the rules Mister Bobby. One and one is two. One and two and three is six. Eighty-nine is the twenty-fourth prime number. Thirty-four and fifty-five is eighty-nine. Those are the rules. Things that are easy to check. 
+ 
+Scruggs: What about God?
+ 
+Zodh: Is he easy to check?
+ 
+Scruggs: In another way. 
+ 
+Zodh: True providence is easy to check, Mister Joe. You only need to count. One eight nine zero is three, three, three. … Done now. 
+ 
+Scruggs: It’s about time. 
+
+
+
+
+
+
+
+
+
+
+Unknown
+
+
+
+
+
+
+
+
+Manifesto for an Abstract Literature  
+ 
+§100  — Disintegration inspires a thousand manifestoes, as our age confirms. Here is another. It would be a manifesto in defense of nothing, if nothing needed – or even tolerated – defending. With its solicitude mocked by alien voids, it can only attack something – anything (everything). 
+ 
+§101  — Abstraction is nothing, rigorously pursued. Arithmetical zero is its sign. To perceive, think, and do nothing. To be nothing. Zero alone – in its infinite formulations – attains such exemption from indignity. (And it is time.) 
+ 
+§102  — Abstraction in itself is the sovereign of the negative determination, and can never fall under a formal relation. It does not oppose itself to the concrete, except in terms whose keys are encrypted within itself. Apophatic method (the via negativa) is its discipline. 
+ 
+§103  — Abstract negation, as Hegel perhaps understood, in deriding it, is the only kind that escapes. He recoils from a negativity that does no work or even (precisely) the opposite, and which redoubles without self-cancelation while still turning endlessly into itself. Abstract negation is already a doubling, of such redundancy that it sheds the pretense to generic negativity like Ouroboros skin – and in fact like nothing at all. 
+ 
+§104  — The elusiveness of the abstract can be rigorously illustrated. Division by zero exemplifies it, in the perfect extinction of illumination. It can only be forbidden because, once understood, it makes no sense. To divide by zero is to initiate an explosion without limit, of demonstrable irreversibility. The result returned is undefined (sufficiently so to crash computers). Though a gate to the tracts of the transfinite, there can be no retreat back through it. It allows nothing to be retrieved.  
+ 
+§105  — Abstract writing and aesthetic abstraction are each easily found in abundance. Logico-mathematical formalism provides the former, high modernism in the visual arts (especially) the latter. Yet literary high modernism has made a hash of its involvement with abstraction. 
+ 
+§106  — “I have nothing to say, and I’m saying it.” – John Cage.  
+ 
+§107  — The term ‘blank verse’ amuses us. 
+ 
+§108  — The object of abstract literature is integral obscurity. It seeks only to make an object of the unknown, as the unknown. Cryptropic nature captivates it (Φύσις κρύπτεσθαι φιλεῖ). Whatever might imaginably be shown is something else, but then so – if not exactly equally – is anything that remains simply apart. Those who dedicate themselves to this dubious cause can be nothing but a surface effect of The Thing. 
+ 
+§109  — Abstract literature writes in clues, with clue words, but without hope. It is the detective fiction of the insoluble crime, the science fiction of an inconceivable future, the mystery fiction of the impregnable unknown, proceeding through cryptic names of evocation, and rigid designators without significance. The weirdness it explores does not pass, unless to withdraw more completely into itself. There is no answer, or even – for long – the place for an answer. Where the solution might have been found waits something else. Description is damage. 
+ 
+§110  — John (18:20) quotes the Nazarene: “in secret have I said nothing” (ἐν κρυπτῷ ἐλάλησα οὐδέν). 
+ 
+§111  — Sexual repression, pushed to an extreme, advances the mechanics of abstract literature. Puritanism is here set to dark work. Lovecraft (once again) exhibits the pattern. Whatever hides can be latched onto other hidden things.
+ 
+§112  — Fiction is bound, from the beginning, to what is not. Non-occurrences are its special preoccupation. It trafficks with things that never happened, and lies on the path to Old Night. 
+ 
+§113  — No one has yet done anything with unnonfiction (the word). Now is the time to unearth still less with it.
+ 
+§114  — Because literature knows nothing, it can turn blindness to a vision of the abyss. It evokes an apprehension of non-apprehension, or a perception of the imperceptible as such. Milton explores the abyss, in order to say nothing, positively, with unsurpassed eloquence. He makes Paradise Lost the Bible of abstract literature where “darkness visible” (I:63), “the palpable obscure” (II:406), shadow the ultimate unilluminousness of “Old Night” (I:543). Horror is structurally Miltonic. What cannot be seen, or in any other way shown, can still be said. 
+ 
+§115  — Lovecraft: “I choose weird stories because they suit my inclination best – one of my strongest and most persistent wishes being to achieve, momentarily, the illusion of some strange suspension or violation of the galling limitations of time, space, and natural law which for ever imprison us and frustrate our curiosity about the infinite cosmic spaces beyond the radius of our sight and analysis. These stories frequently emphasise the element of horror because fear is our deepest and strongest emotion, and the one which best lends itself to the creation of nature-defying illusions. Horror and the unknown or the strange are always closely connected, so that it is hard to create a convincing picture of shattered natural law or cosmic alienage or ‘outsideness’ without laying stress on the emotion of fear.”
+ 
+§116  — Except, it is not fear that guides us. Abstract literature complies with a rigorous critique of fear, conducted in the name of horror. Fear nothing, until fear sheds its concreteness, and nothing switches its sign. 
+ 
+§117  — The Thing horror pursues – and from which it flees – cannot be an object (if life is to continue). Its nonexistence is a presupposition of mental equilibrium. At the virtual horizon where thought encounters it, absolute madness reigns. This coincidence is fundamental. At the end of horror lies that which – if there is merely to be sanity – cannot conceivably or imaginably exist. The image of the monster, then, is more than an error of method. It is a radical misapprehension. Anything that can be captured cannot be what horror seeks. Pictures are mistakes. 
+ 
+§118  — There is no difference between abstract literature and horror, conceived in profundity (in the abyss). An encounter with the absolutely cognitively intolerable cannot conclude in a positive presentation. The makers of horror have long been expected to understand that – even if they still typically submit to the sins of exhibition, the lust to show, and tell. Within the image, horror is interred. Thus, abstract literature is committed to a definite iconoclasm, which is also a vow of silence – though a hidden silence. 
+ 
+§119  — Horror anticipates philosophy, spawns it automatically, and provides its ultimate object – abstraction (in itself). It comes from the same non-place to which philosophy tends. If skepticism teaches philosophy what it need not think, horror persuades it that it cannot. In this way, the pact between abstraction and horror – the thing – surpasses anything philosophy could ever be, or know. It is a connection as old as time. Exactly as old. Horror builds the mansion of ruined intuition, through which philosophy wanders, like a nervous child.
+ 
+§120  — Abstract literature borrows its guides from horror, which are monsters. ‘Invisible’ monsters we are tempted to say, over-hastily. No monster can be more, or less, than partially – horribly – seen (as etymology reliable attests). The monster is liminal, or diagonal. It discloses a lurid obscurity. 
+ 
+§121  — The initial stage of monstrosity is ‘simple’ beyondness. A monster has as its leading characteristic the nature of an excessive being. It is first of all a counter- humanoid, eluding anthropomorphic recognition. Since ‘inhumanity’ remains captured within a dialectical relation, it is preferable to invoke a ‘non-’ or ‘un-humanity’ determined abstractly – in the way of the wholly unknown aliens from James Cameron’s The Abyss (1989) – only as “something not us”. A minimal condition for monstrosity is radical unhumanity. 
+ 
+§122  — Even as it consumes all attention, monstrosity does not look like anything. At the crudest level of perceptual disorganization, it dismantles morphology into the seething complexity of tentacle-monsters and bug-creatures – plasticized, metamorphic, and poly-segmentary beings – for which (China Miéville) “Squidity” is the supreme archetype. At a more advanced level of abstraction, they slough off even these residual forms as larval constrictions, becoming shape-shifting horrors, adopting the body-plans of their prey, as they evolve fluidly into the way hunt. At their intensive zenith, they sublime to sheer system, syndrome – reproduction cycles, patterns of parasitization, epidemiological profiles, and convergent waves – conceivable only through what they do.
+ 
+§123  — Fundamental ontology tells us that whatever happens (in time) is not time, and being is no thing. “The nothing nothings nothingishly,” or whatever Heidegger said, or didn’t say, it matters not, until unnonfiction seizes upon it (as it will). There can never be enough negative ontology, because what being is not exceeds it. 
+ 
+§124  — Much has to be conceded to our hypothetical interlocutor, who asks: “Is it not, then the intrinsic mission of abstract literature to visit infinite ontological devastation upon its readers?” For how could that be avoided? Our task cannot be other than to supplant intolerable nightmares with yet worse ones. Mercifully, this is no easy thing (from a certain regard), even if it is an ineluctable destiny (from others).
+ 
+§125  — From whence comes this grim pact with the abyss? We can only respond, with confidence – from the abyss. If another answer were plausible, then abstract literature would be expression, when it is only – or at least overwhelmingly – exploration, and to explore, from the other side, is to let something in. 
+ 
+
+
+
+
+
+
+
+
+Cover
+
+
+
+
+
+
+
+
+
+
