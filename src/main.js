@@ -19,7 +19,7 @@ const config = {
   sources:
     flavor == "A"
       ? ["calvino", "hooks", "butler", "oliver", "rumi"]
-      : ["consequences", "deleuze", "naam"],
+      : ["consequences", "deleuze", "naam", "land"],
 };
 
 const s = (p) => {
