@@ -169,6 +169,7 @@ const s = (p) => {
       toChangeModels = true;
     }
     if (toChangeModels) {
+      models[currentModelIndex].regen();
       currentModelIndex++;
       if (currentModelIndex >= models.length) {
         currentModelIndex = 0;
@@ -190,6 +191,7 @@ const s = (p) => {
       toChangeModels = true;
     }
     if (toChangeModels) {
+      models[currentModelIndex].regen();
       currentModelIndex++;
       if (currentModelIndex >= models.length) {
         currentModelIndex = 0;
